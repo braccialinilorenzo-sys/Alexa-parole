@@ -1,0 +1,208 @@
+{
+    "type": "APL",
+    "version": "2023.3",
+    "theme": "dark",
+    "description": "Schermata con la parola inglese e la parola cinese del giorno",
+    "mainTemplate": {
+        "parameters": ["dati"],
+        "items": [
+            {
+                "type": "Frame",
+                "width": "100vw",
+                "height": "100vh",
+                "backgroundColor": "#0f1420",
+                "bind": [
+                    {
+                        "name": "s",
+                        "value": "${viewport.height < 600 ? 0.7 : (viewport.width > 1500 ? 1.35 : 1)}"
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "Container",
+                        "width": "100%",
+                        "height": "100%",
+                        "direction": "column",
+                        "paddingLeft": "${24 * s}dp",
+                        "paddingRight": "${24 * s}dp",
+                        "paddingTop": "${16 * s}dp",
+                        "paddingBottom": "${16 * s}dp",
+                        "items": [
+                            {
+                                "type": "Text",
+                                "text": "${dati.titolo}",
+                                "fontSize": "${22 * s}dp",
+                                "color": "#8b97ad",
+                                "textAlign": "center",
+                                "paddingBottom": "${10 * s}dp"
+                            },
+                            {
+                                "type": "Container",
+                                "direction": "row",
+                                "grow": 1,
+                                "shrink": 1,
+                                "items": [
+                                    {
+                                        "type": "Frame",
+                                        "grow": 1,
+                                        "shrink": 1,
+                                        "width": "0",
+                                        "height": "100%",
+                                        "backgroundColor": "#1b2335",
+                                        "borderRadius": "${18 * s}dp",
+                                        "items": [
+                                            {
+                                                "type": "Container",
+                                                "width": "100%",
+                                                "height": "100%",
+                                                "direction": "column",
+                                                "justifyContent": "center",
+                                                "paddingLeft": "${22 * s}dp",
+                                                "paddingRight": "${22 * s}dp",
+                                                "items": [
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "INGLESE",
+                                                        "fontSize": "${18 * s}dp",
+                                                        "fontWeight": "bold",
+                                                        "letterSpacing": "${3 * s}dp",
+                                                        "color": "#7fb3ff"
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "${dati.en.parola}",
+                                                        "fontSize": "${60 * s}dp",
+                                                        "fontWeight": "bold",
+                                                        "color": "#ffffff",
+                                                        "maxLines": 2
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "si pronuncia: <b>${dati.en.pronuncia}</b>",
+                                                        "fontSize": "${26 * s}dp",
+                                                        "color": "#c9d1e0",
+                                                        "paddingBottom": "${10 * s}dp"
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "${dati.en.traduzione}",
+                                                        "fontSize": "${34 * s}dp",
+                                                        "fontWeight": "bold",
+                                                        "color": "#ffd166",
+                                                        "paddingBottom": "${12 * s}dp",
+                                                        "maxLines": 2
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "<i>${dati.en.esempio}</i>",
+                                                        "display": "${dati.en.esempio ? 'normal' : 'none'}",
+                                                        "fontSize": "${26 * s}dp",
+                                                        "color": "#ffffff",
+                                                        "maxLines": 3
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "${dati.en.traduzioneEsempio}",
+                                                        "fontSize": "${22 * s}dp",
+                                                        "color": "#9aa5b8",
+                                                        "maxLines": 3
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "Container",
+                                        "width": "${18 * s}dp"
+                                    },
+                                    {
+                                        "type": "Frame",
+                                        "grow": 1,
+                                        "shrink": 1,
+                                        "width": "0",
+                                        "height": "100%",
+                                        "backgroundColor": "#2a1d24",
+                                        "borderRadius": "${18 * s}dp",
+                                        "items": [
+                                            {
+                                                "type": "Container",
+                                                "width": "100%",
+                                                "height": "100%",
+                                                "direction": "column",
+                                                "justifyContent": "center",
+                                                "paddingLeft": "${22 * s}dp",
+                                                "paddingRight": "${22 * s}dp",
+                                                "items": [
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "CINESE",
+                                                        "fontSize": "${18 * s}dp",
+                                                        "fontWeight": "bold",
+                                                        "letterSpacing": "${3 * s}dp",
+                                                        "color": "#ff8a80"
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "${dati.zh.hanzi}",
+                                                        "fontSize": "${80 * s}dp",
+                                                        "color": "#ffffff",
+                                                        "maxLines": 1
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "<b>${dati.zh.pinyin}</b>",
+                                                        "fontSize": "${32 * s}dp",
+                                                        "color": "#ffffff"
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "si pronuncia circa: ${dati.zh.pronuncia}",
+                                                        "fontSize": "${22 * s}dp",
+                                                        "color": "#c9d1e0",
+                                                        "paddingBottom": "${10 * s}dp"
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "${dati.zh.traduzione}",
+                                                        "fontSize": "${34 * s}dp",
+                                                        "fontWeight": "bold",
+                                                        "color": "#ffd166",
+                                                        "paddingBottom": "${12 * s}dp",
+                                                        "maxLines": 2
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "${dati.zh.esempio}",
+                                                        "display": "${dati.zh.esempio ? 'normal' : 'none'}",
+                                                        "fontSize": "${30 * s}dp",
+                                                        "color": "#ffffff",
+                                                        "maxLines": 2
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "<i>${dati.zh.esempioPinyin}</i>",
+                                                        "display": "${dati.zh.esempioPinyin ? 'normal' : 'none'}",
+                                                        "fontSize": "${22 * s}dp",
+                                                        "color": "#e0e0e0",
+                                                        "maxLines": 2
+                                                    },
+                                                    {
+                                                        "type": "Text",
+                                                        "text": "${dati.zh.traduzioneEsempio}",
+                                                        "fontSize": "${22 * s}dp",
+                                                        "color": "#9aa5b8",
+                                                        "maxLines": 3
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

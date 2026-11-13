@@ -1,0 +1,37 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "it-IT": {
+          "name": "Parole del mattino",
+          "summary": "Ogni giorno una parola inglese e una parola cinese.",
+          "description": "Skill privata: ogni giorno ti propone una parola inglese e una parola cinese, ti fa una domanda e ti dà la soluzione.",
+          "examplePhrases": [
+            "Alexa, apri parole del mattino"
+          ],
+          "keywords": []
+        }
+      },
+      "isAvailableWorldwide": false,
+      "testingInstructions": "Uso privato.",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": ["IT"]
+    },
+    "apis": {
+      "custom": {
+        "interfaces": [
+          {
+            "type": "ALEXA_PRESENTATION_APL",
+            "supportedViewports": [
+              { "mode": "HUB", "shape": "RECTANGLE", "minWidth": 960, "maxWidth": 960, "minHeight": 480, "maxHeight": 480 },
+              { "mode": "HUB", "shape": "RECTANGLE", "minWidth": 1024, "maxWidth": 1024, "minHeight": 600, "maxHeight": 600 },
+              { "mode": "HUB", "shape": "RECTANGLE", "minWidth": 1280, "maxWidth": 1280, "minHeight": 800, "maxHeight": 800 },
+              { "mode": "HUB", "shape": "RECTANGLE", "minWidth": 1920, "maxWidth": 1920, "minHeight": 1080, "maxHeight": 1080 }
+            ]
+          }
+        ]
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
