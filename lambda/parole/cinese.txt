@@ -1,0 +1,321 @@
+# PAROLE CINESI — una per riga, 7 campi separati da " | "
+# hanzi | pinyin | pronuncia all'italiana | traduzione | esempio in caratteri | pinyin dell'esempio | traduzione dell'esempio
+# Pronuncia: approssimazione leggibile per un italiano, sillabe separate da trattini. È solo indicativa:
+#   i toni (1° piatto ā, 2° ascendente á, 3° basso-ascendente ǎ, 4° discendente à) sono indicati solo nel pinyin.
+#   Legenda: h = aspirata (come la j spagnola); gi/ge, ci/ce, sci/sce si leggono come in italiano;
+#   gh/k = g e c dure; dz = z di "zero"; ts = z di "pizza"; ü del pinyin scritta come "iu".
+#   I suoni retroflessi (zh, ch, sh, r) sono resi in modo approssimato (es. 是 shì = "sce", 吃 chī = "ci").
+# Traduzioni alternative separate da " / " (la prima è quella principale).
+# Le righe che iniziano con # vengono ignorate.
+# Puoi aggiungere, togliere o riordinare le righe liberamente.
+
+你好 | nǐ hǎo | ni-hao | ciao / salve | 你好，我叫马可。 | Nǐ hǎo, wǒ jiào Mǎkě. | Ciao, mi chiamo Marco.
+谢谢 | xièxie | scie-scie | grazie | 谢谢你。 | Xièxie nǐ. | Ti ringrazio.
+我 | wǒ | uo | io / me | 我是意大利人。 | Wǒ shì Yìdàlìrén. | Sono italiano.
+你 | nǐ | ni | tu / te | 你好吗？ | Nǐ hǎo ma? | Come stai?
+是 | shì | sce | essere / è / sì | 他是我朋友。 | Tā shì wǒ péngyou. | Lui è mio amico.
+再见 | zàijiàn | dzai-gien | arrivederci / ciao | 老师，再见。 | Lǎoshī, zàijiàn. | Arrivederci, professore.
+水 | shuǐ | sciuei | acqua | 我要喝水。 | Wǒ yào hē shuǐ. | Voglio bere acqua.
+一 | yī | i | uno | 我有一个哥哥。 | Wǒ yǒu yī gè gēge. | Ho un fratello maggiore.
+爸爸 | bàba | ba-ba | papà / padre | 我爸爸是医生。 | Wǒ bàba shì yīshēng. | Mio padre è medico.
+吃 | chī | ci | mangiare | 你吃饭了吗？ | Nǐ chī fàn le ma? | Hai mangiato?
+好 | hǎo | hao | buono / bene | 今天天气很好。 | Jīntiān tiānqì hěn hǎo. | Oggi il tempo è molto bello.
+不 | bù | bu | no / non | 我不喝咖啡。 | Wǒ bù hē kāfēi. | Non bevo caffè.
+茶 | chá | cia | tè | 我喜欢喝茶。 | Wǒ xǐhuan hē chá. | Mi piace bere il tè.
+妈妈 | māma | ma-ma | mamma / madre | 妈妈在家。 | Māma zài jiā. | La mamma è a casa.
+喝 | hē | he | bere | 你想喝什么？ | Nǐ xiǎng hē shénme? | Cosa vuoi bere?
+今天 | jīntiān | gin-tien | oggi | 今天是星期一。 | Jīntiān shì xīngqīyī. | Oggi è lunedì.
+他 | tā | ta | lui | 他是中国人。 | Tā shì Zhōngguórén. | Lui è cinese.
+对不起 | duìbuqǐ | duei-bu-ci | scusa / mi dispiace | 对不起，我来晚了。 | Duìbuqǐ, wǒ lái wǎn le. | Scusa, sono arrivato tardi.
+二 | èr | er | due | 我二十岁。 | Wǒ èrshí suì. | Ho vent'anni.
+家 | jiā | gia | casa / famiglia | 我家很大。 | Wǒ jiā hěn dà. | La mia casa è grande.
+她 | tā | ta | lei | 她是我妹妹。 | Tā shì wǒ mèimei. | Lei è mia sorella minore.
+米饭 | mǐfàn | mi-fan | riso | 我每天吃米饭。 | Wǒ měi tiān chī mǐfàn. | Mangio riso ogni giorno.
+去 | qù | ciu | andare | 我们去学校。 | Wǒmen qù xuéxiào. | Andiamo a scuola.
+大 | dà | da | grande | 这个苹果很大。 | Zhège píngguǒ hěn dà. | Questa mela è molto grande.
+朋友 | péngyou | peng-iou | amico / amica | 他是我的好朋友。 | Tā shì wǒ de hǎo péngyou. | È un mio buon amico.
+明天 | míngtiān | ming-tien | domani | 明天见。 | Míngtiān jiàn. | A domani.
+小 | xiǎo | sciao | piccolo | 我的房间很小。 | Wǒ de fángjiān hěn xiǎo. | La mia stanza è piccola.
+中国 | Zhōngguó | giong-guo | Cina | 我想去中国。 | Wǒ xiǎng qù Zhōngguó. | Voglio andare in Cina.
+三 | sān | san | tre | 我有三本书。 | Wǒ yǒu sān běn shū. | Ho tre libri.
+有 | yǒu | iou | avere / esserci | 你有手机吗？ | Nǐ yǒu shǒujī ma? | Hai un cellulare?
+狗 | gǒu | gou | cane | 我家有一只狗。 | Wǒ jiā yǒu yī zhī gǒu. | A casa mia c'è un cane.
+学习 | xuéxí | sciue-sci | studiare / imparare | 我在学习中文。 | Wǒ zài xuéxí Zhōngwén. | Sto studiando cinese.
+人 | rén | ren | persona / gente | 这里人很多。 | Zhèlǐ rén hěn duō. | Qui c'è molta gente.
+早上好 | zǎoshang hǎo | dzao-sciang-hao | buongiorno | 老师，早上好。 | Lǎoshī, zǎoshang hǎo. | Buongiorno, professore.
+叫 | jiào | giao | chiamarsi / chiamare | 你叫什么名字？ | Nǐ jiào shénme míngzi? | Come ti chiami?
+苹果 | píngguǒ | ping-guo | mela | 我想吃苹果。 | Wǒ xiǎng chī píngguǒ. | Voglio mangiare una mela.
+哥哥 | gēge | ghe-ghe | fratello maggiore / fratello | 我哥哥很高。 | Wǒ gēge hěn gāo. | Mio fratello maggiore è molto alto.
+看 | kàn | kan | guardare / vedere / leggere | 我喜欢看电影。 | Wǒ xǐhuan kàn diànyǐng. | Mi piace guardare film.
+热 | rè | re | caldo | 今天很热。 | Jīntiān hěn rè. | Oggi fa molto caldo.
+名字 | míngzi | ming-dze | nome | 我的名字叫马可。 | Wǒ de míngzi jiào Mǎkě. | Il mio nome è Marco.
+喜欢 | xǐhuan | sci-huan | piacere / amare | 我喜欢中国菜。 | Wǒ xǐhuan Zhōngguó cài. | Mi piace la cucina cinese.
+学校 | xuéxiào | sciue-sciao | scuola | 学校离我家很近。 | Xuéxiào lí wǒ jiā hěn jìn. | La scuola è vicina a casa mia.
+猫 | māo | mao | gatto | 这只猫很可爱。 | Zhè zhī māo hěn kě'ài. | Questo gatto è molto carino.
+冷 | lěng | leng | freddo | 冬天很冷。 | Dōngtiān hěn lěng. | L'inverno è molto freddo.
+什么 | shénme | scen-me | cosa / che cosa / che | 这是什么？ | Zhè shì shénme? | Che cos'è questo?
+来 | lái | lai | venire | 你什么时候来？ | Nǐ shénme shíhou lái? | Quando vieni?
+老师 | lǎoshī | lao-sce | insegnante / professore / maestro | 我的老师是中国人。 | Wǒ de lǎoshī shì Zhōngguórén. | Il mio insegnante è cinese.
+十 | shí | sce | dieci | 我的儿子十岁。 | Wǒ de érzi shí suì. | Mio figlio ha dieci anni.
+多少 | duōshao | duo-sciao | quanto / quanti | 这个多少钱？ | Zhège duōshao qián? | Quanto costa questo?
+钱 | qián | cien | soldi / denaro | 我没有钱。 | Wǒ méiyǒu qián. | Non ho soldi.
+买 | mǎi | mai | comprare | 我想买一本书。 | Wǒ xiǎng mǎi yī běn shū. | Voglio comprare un libro.
+书 | shū | sciu | libro | 这本书很好看。 | Zhè běn shū hěn hǎokàn. | Questo libro è molto bello.
+想 | xiǎng | sciang | volere / pensare | 我想回家。 | Wǒ xiǎng huí jiā. | Voglio tornare a casa.
+哪里 | nǎlǐ | na-li | dove | 你住在哪里？ | Nǐ zhù zài nǎlǐ? | Dove abiti?
+很 | hěn | hen | molto | 我很高兴。 | Wǒ hěn gāoxìng. | Sono molto contento.
+弟弟 | dìdi | di-di | fratello minore / fratellino | 我弟弟八岁。 | Wǒ dìdi bā suì. | Mio fratello minore ha otto anni.
+饭店 | fàndiàn | fan-dien | ristorante / albergo | 这家饭店很有名。 | Zhè jiā fàndiàn hěn yǒumíng. | Questo ristorante è molto famoso.
+现在 | xiànzài | scien-dzai | adesso / ora | 现在几点？ | Xiànzài jǐ diǎn? | Che ore sono adesso?
+说 | shuō | sciuo | parlare / dire | 你会说中文吗？ | Nǐ huì shuō Zhōngwén ma? | Sai parlare cinese?
+中文 | Zhōngwén | giong-uen | cinese / lingua cinese | 中文很有意思。 | Zhōngwén hěn yǒu yìsi. | Il cinese è molto interessante.
+女儿 | nǚ'ér | niu-er | figlia | 我女儿很漂亮。 | Wǒ nǚ'ér hěn piàoliang. | Mia figlia è molto bella.
+天气 | tiānqì | tien-ci | tempo / clima | 明天天气怎么样？ | Míngtiān tiānqì zěnmeyàng? | Che tempo farà domani?
+五 | wǔ | u | cinque | 我们五点见。 | Wǒmen wǔ diǎn jiàn. | Ci vediamo alle cinque.
+医生 | yīshēng | i-sceng | medico / dottore | 我妈妈是医生。 | Wǒ māma shì yīshēng. | Mia madre è medico.
+睡觉 | shuìjiào | sciuei-giao | dormire | 我十一点睡觉。 | Wǒ shíyī diǎn shuìjiào. | Vado a dormire alle undici.
+漂亮 | piàoliang | piao-liang | bello / carino | 这件衣服很漂亮。 | Zhè jiàn yīfu hěn piàoliang. | Questo vestito è molto bello.
+会 | huì | huei | sapere / potere | 我会做饭。 | Wǒ huì zuò fàn. | So cucinare.
+商店 | shāngdiàn | sciang-dien | negozio | 商店几点开门？ | Shāngdiàn jǐ diǎn kāimén? | A che ora apre il negozio?
+年 | nián | nien | anno | 我学了一年中文。 | Wǒ xué le yī nián Zhōngwén. | Ho studiato cinese per un anno.
+儿子 | érzi | er-dze | figlio | 他儿子在北京。 | Tā érzi zài Běijīng. | Suo figlio è a Pechino.
+做 | zuò | dzuo | fare | 你在做什么？ | Nǐ zài zuò shénme? | Cosa stai facendo?
+咖啡 | kāfēi | ka-fei | caffè | 我每天早上喝咖啡。 | Wǒ měi tiān zǎoshang hē kāfēi. | Bevo il caffè ogni mattina.
+多 | duō | duo | molto / tanti | 他有很多朋友。 | Tā yǒu hěn duō péngyou. | Ha molti amici.
+在 | zài | dzai | essere a / trovarsi / in | 我在家。 | Wǒ zài jiā. | Sono a casa.
+几 | jǐ | gi | quanti / quale | 你家有几口人？ | Nǐ jiā yǒu jǐ kǒu rén? | Quante persone ci sono nella tua famiglia?
+我们 | wǒmen | uo-men | noi | 我们是好朋友。 | Wǒmen shì hǎo péngyou. | Siamo buoni amici.
+晚上 | wǎnshang | uan-sciang | sera | 晚上我看电视。 | Wǎnshang wǒ kàn diànshì. | La sera guardo la televisione.
+菜 | cài | tsai | piatto / verdura / cibo | 这个菜很好吃。 | Zhège cài hěn hǎochī. | Questo piatto è molto buono.
+好吃 | hǎochī | hao-ci | buono / delizioso | 妈妈做的饭很好吃。 | Māma zuò de fàn hěn hǎochī. | Il cibo che cucina la mamma è buonissimo.
+爱 | ài | ai | amare / amore | 我爱我的家。 | Wǒ ài wǒ de jiā. | Amo la mia famiglia.
+电话 | diànhuà | dien-hua | telefono / telefonata | 我给你打电话。 | Wǒ gěi nǐ dǎ diànhuà. | Ti telefono.
+八 | bā | ba | otto | 我八点上班。 | Wǒ bā diǎn shàngbān. | Vado al lavoro alle otto.
+高兴 | gāoxìng | gao-scing | contento / felice | 认识你很高兴。 | Rènshi nǐ hěn gāoxìng. | Piacere di conoscerti.
+走 | zǒu | dzou | camminare / andare / andarsene | 我们走吧。 | Wǒmen zǒu ba. | Andiamo.
+衣服 | yīfu | i-fu | vestiti / abiti | 我想买衣服。 | Wǒ xiǎng mǎi yīfu. | Voglio comprare dei vestiti.
+北京 | Běijīng | bei-ging | Pechino | 北京很大。 | Běijīng hěn dà. | Pechino è molto grande.
+读 | dú | du | leggere | 我在读书。 | Wǒ zài dú shū. | Sto leggendo un libro.
+时候 | shíhou | sce-hou | momento / tempo / quando | 你什么时候回家？ | Nǐ shénme shíhou huí jiā? | Quando torni a casa?
+姐姐 | jiějie | gie-gie | sorella maggiore / sorella | 我姐姐是老师。 | Wǒ jiějie shì lǎoshī. | Mia sorella maggiore è insegnante.
+星期 | xīngqī | scing-ci | settimana | 下个星期我去上海。 | Xià ge xīngqī wǒ qù Shànghǎi. | La settimana prossima vado a Shanghai.
+听 | tīng | ting | ascoltare / sentire | 我喜欢听音乐。 | Wǒ xǐhuan tīng yīnyuè. | Mi piace ascoltare musica.
+杯子 | bēizi | bei-dze | bicchiere / tazza | 这个杯子是我的。 | Zhège bēizi shì wǒ de. | Questo bicchiere è mio.
+谁 | shéi | scei | chi | 他是谁？ | Tā shì shéi? | Chi è lui?
+能 | néng | neng | potere / riuscire | 你能帮我吗？ | Nǐ néng bāng wǒ ma? | Puoi aiutarmi?
+月 | yuè | iue | mese / luna | 我七月去中国。 | Wǒ qī yuè qù Zhōngguó. | A luglio vado in Cina.
+出租车 | chūzūchē | ciu-dzu-ce | taxi | 我们坐出租车吧。 | Wǒmen zuò chūzūchē ba. | Prendiamo un taxi.
+这 | zhè | ge | questo / questa | 这是我的书。 | Zhè shì wǒ de shū. | Questo è il mio libro.
+那 | nà | na | quello / quella | 那是我的车。 | Nà shì wǒ de chē. | Quella è la mia macchina.
+车 | chē | ce | macchina / auto / veicolo | 他的车很新。 | Tā de chē hěn xīn. | La sua macchina è molto nuova.
+回 | huí | huei | tornare | 我明天回家。 | Wǒ míngtiān huí jiā. | Domani torno a casa.
+水果 | shuǐguǒ | sciuei-guo | frutta | 我每天吃水果。 | Wǒ měi tiān chī shuǐguǒ. | Mangio frutta ogni giorno.
+工作 | gōngzuò | gong-dzuo | lavoro / lavorare | 你做什么工作？ | Nǐ zuò shénme gōngzuò? | Che lavoro fai?
+四 | sì | se | quattro | 我们家有四口人。 | Wǒmen jiā yǒu sì kǒu rén. | Nella nostra famiglia siamo in quattro.
+认识 | rènshi | ren-sce | conoscere | 我认识他。 | Wǒ rènshi tā. | Lo conosco.
+下雨 | xià yǔ | scia-iu | piovere | 今天下雨了。 | Jīntiān xià yǔ le. | Oggi piove.
+医院 | yīyuàn | i-iuen | ospedale | 医院在哪里？ | Yīyuàn zài nǎlǐ? | Dov'è l'ospedale?
+开 | kāi | kai | aprire / accendere / guidare | 请开门。 | Qǐng kāi mén. | Apri la porta, per favore.
+请 | qǐng | cing | per favore / prego / invitare | 请坐。 | Qǐng zuò. | Prego, si accomodi.
+坐 | zuò | dzuo | sedersi / prendere | 我坐飞机去北京。 | Wǒ zuò fēijī qù Běijīng. | Vado a Pechino in aereo.
+飞机 | fēijī | fei-gi | aereo | 飞机几点起飞？ | Fēijī jǐ diǎn qǐfēi? | A che ora decolla l'aereo?
+少 | shǎo | sciao | poco / pochi | 这里人很少。 | Zhèlǐ rén hěn shǎo. | Qui c'è poca gente.
+下午 | xiàwǔ | scia-u | pomeriggio | 下午我去图书馆。 | Xiàwǔ wǒ qù túshūguǎn. | Nel pomeriggio vado in biblioteca.
+椅子 | yǐzi | i-dze | sedia | 这把椅子很舒服。 | Zhè bǎ yǐzi hěn shūfu. | Questa sedia è molto comoda.
+写 | xiě | scie | scrivere | 我会写汉字。 | Wǒ huì xiě Hànzì. | So scrivere i caratteri cinesi.
+妹妹 | mèimei | mei-mei | sorella minore / sorellina | 我妹妹喜欢唱歌。 | Wǒ mèimei xǐhuan chànggē. | Alla mia sorellina piace cantare.
+汉字 | Hànzì | han-dze | carattere cinese / caratteri cinesi | 这个汉字很难。 | Zhège Hànzì hěn nán. | Questo carattere è molto difficile.
+桌子 | zhuōzi | giuo-dze | tavolo / scrivania | 书在桌子上。 | Shū zài zhuōzi shang. | Il libro è sul tavolo.
+起床 | qǐchuáng | ci-ciuang | alzarsi | 你几点起床？ | Nǐ jǐ diǎn qǐchuáng? | A che ora ti alzi?
+电影 | diànyǐng | dien-ing | film / cinema | 这个电影很好看。 | Zhège diànyǐng hěn hǎokàn. | Questo film è molto bello.
+住 | zhù | giu | abitare / vivere | 我住在罗马。 | Wǒ zhù zài Luómǎ. | Abito a Roma.
+鱼 | yú | iu | pesce | 我不吃鱼。 | Wǒ bù chī yú. | Non mangio pesce.
+昨天 | zuótiān | dzuo-tien | ieri | 昨天我很忙。 | Zuótiān wǒ hěn máng. | Ieri ero molto impegnato.
+忙 | máng | mang | impegnato / occupato | 你忙吗？ | Nǐ máng ma? | Sei impegnato?
+同学 | tóngxué | tong-sciue | compagno di classe / compagno | 他是我的同学。 | Tā shì wǒ de tóngxué. | È un mio compagno di classe.
+东西 | dōngxi | dong-sci | cosa / oggetto / roba | 我去买东西。 | Wǒ qù mǎi dōngxi. | Vado a fare spese.
+点 | diǎn | dien | ora / punto / un po' | 我们三点见。 | Wǒmen sān diǎn jiàn. | Ci vediamo alle tre.
+太 | tài | tai | troppo | 太贵了。 | Tài guì le. | È troppo caro.
+贵 | guì | guei | caro / costoso | 这件衣服很贵。 | Zhè jiàn yīfu hěn guì. | Questo vestito è molto caro.
+便宜 | piányi | pien-i | economico | 这里的水果很便宜。 | Zhèlǐ de shuǐguǒ hěn piányi. | Qui la frutta costa poco.
+丈夫 | zhàngfu | giang-fu | marito | 我丈夫在工作。 | Wǒ zhàngfu zài gōngzuò. | Mio marito sta lavorando.
+妻子 | qīzi | ci-dze | moglie | 他的妻子是医生。 | Tā de qīzi shì yīshēng. | Sua moglie è medico.
+跑步 | pǎobù | pao-bu | correre / fare jogging | 我每天早上跑步。 | Wǒ měi tiān zǎoshang pǎobù. | Corro ogni mattina.
+早饭 | zǎofàn | dzao-fan | colazione | 你吃早饭了吗？ | Nǐ chī zǎofàn le ma? | Hai fatto colazione?
+上 | shàng | sciang | sopra / su / salire | 我们上车吧。 | Wǒmen shàng chē ba. | Saliamo in macchina.
+下 | xià | scia | sotto / giù / scendere | 狗在桌子下面。 | Gǒu zài zhuōzi xiàmiàn. | Il cane è sotto il tavolo.
+红色 | hóngsè | hong-se | rosso | 我喜欢红色。 | Wǒ xǐhuan hóngsè. | Mi piace il rosso.
+手机 | shǒujī | sciou-gi | cellulare / telefonino | 我的手机在哪里？ | Wǒ de shǒujī zài nǎlǐ? | Dov'è il mio cellulare?
+超市 | chāoshì | ciao-sce | supermercato | 我去超市买水果。 | Wǒ qù chāoshì mǎi shuǐguǒ. | Vado al supermercato a comprare la frutta.
+累 | lèi | lei | stanco | 我今天很累。 | Wǒ jīntiān hěn lèi. | Oggi sono molto stanco.
+知道 | zhīdào | gi-dao | sapere | 我不知道。 | Wǒ bù zhīdào. | Non lo so.
+鸡蛋 | jīdàn | gi-dan | uovo / uova | 我早饭吃鸡蛋。 | Wǒ zǎofàn chī jīdàn. | A colazione mangio uova.
+他们 | tāmen | ta-men | loro | 他们是我的同学。 | Tāmen shì wǒ de tóngxué. | Sono miei compagni di classe.
+帮助 | bāngzhù | bang-giu | aiutare / aiuto | 谢谢你的帮助。 | Xièxie nǐ de bāngzhù. | Grazie per il tuo aiuto.
+岁 | suì | suei | anni / anno di età | 你几岁？ | Nǐ jǐ suì? | Quanti anni hai?
+房间 | fángjiān | fang-gien | stanza / camera | 我的房间很干净。 | Wǒ de fángjiān hěn gānjìng. | La mia camera è molto pulita.
+新 | xīn | scin | nuovo | 这是我的新手机。 | Zhè shì wǒ de xīn shǒujī. | Questo è il mio nuovo cellulare.
+时间 | shíjiān | sce-gien | tempo | 你有时间吗？ | Nǐ yǒu shíjiān ma? | Hai tempo?
+牛奶 | niúnǎi | niu-nai | latte | 孩子喝牛奶。 | Háizi hē niúnǎi. | Il bambino beve il latte.
+男人 | nánrén | nan-ren | uomo | 那个男人是我的老师。 | Nàge nánrén shì wǒ de lǎoshī. | Quell'uomo è il mio insegnante.
+两 | liǎng | liang | due | 我要两杯茶。 | Wǒ yào liǎng bēi chá. | Vorrei due tazze di tè.
+要 | yào | iao | volere / dovere | 你要什么？ | Nǐ yào shénme? | Cosa vuoi?
+火车站 | huǒchēzhàn | huo-ce-gian | stazione / stazione ferroviaria | 火车站远吗？ | Huǒchēzhàn yuǎn ma? | La stazione è lontana?
+孩子 | háizi | hai-dze | bambino / figlio | 他们有两个孩子。 | Tāmen yǒu liǎng gè háizi. | Hanno due bambini.
+远 | yuǎn | iuen | lontano | 我家离公司很远。 | Wǒ jiā lí gōngsī hěn yuǎn. | Casa mia è molto lontana dall'ufficio.
+近 | jìn | gin | vicino | 超市很近。 | Chāoshì hěn jìn. | Il supermercato è molto vicino.
+意大利 | Yìdàlì | i-da-li | Italia | 意大利菜很好吃。 | Yìdàlì cài hěn hǎochī. | La cucina italiana è buonissima.
+跳舞 | tiàowǔ | tiao-u | ballare | 她喜欢跳舞。 | Tā xǐhuan tiàowǔ. | Le piace ballare.
+白色 | báisè | bai-se | bianco | 我的猫是白色的。 | Wǒ de māo shì báisè de. | Il mio gatto è bianco.
+生日 | shēngrì | sceng-re | compleanno | 祝你生日快乐。 | Zhù nǐ shēngrì kuàilè. | Buon compleanno.
+女人 | nǚrén | niu-ren | donna | 那个女人是医生。 | Nàge nǚrén shì yīshēng. | Quella donna è medico.
+面条 | miàntiáo | mien-tiao | spaghetti / pasta / tagliatelle | 我喜欢吃面条。 | Wǒ xǐhuan chī miàntiáo. | Mi piacciono gli spaghetti cinesi.
+洗 | xǐ | sci | lavare | 我去洗手。 | Wǒ qù xǐ shǒu. | Vado a lavarmi le mani.
+快乐 | kuàilè | kuai-le | felice / allegro | 新年快乐。 | Xīnnián kuàilè. | Buon anno.
+爷爷 | yéye | ie-ie | nonno | 爷爷喜欢喝茶。 | Yéye xǐhuan hē chá. | Il nonno ama bere il tè.
+公司 | gōngsī | gong-se | azienda / ditta / ufficio | 他在一家公司工作。 | Tā zài yī jiā gōngsī gōngzuò. | Lavora in un'azienda.
+等 | děng | deng | aspettare | 请等一下。 | Qǐng děng yīxià. | Aspetta un momento, per favore.
+奶奶 | nǎinai | nai-nai | nonna | 奶奶做的饭很好吃。 | Nǎinai zuò de fàn hěn hǎochī. | La nonna cucina benissimo.
+快 | kuài | kuai | veloce / rapido | 他跑得很快。 | Tā pǎo de hěn kuài. | Corre molto veloce.
+菜单 | càidān | tsai-dan | menù / menu | 请给我菜单。 | Qǐng gěi wǒ càidān. | Mi dia il menù, per favore.
+给 | gěi | ghei | dare / a / per | 请给我一杯水。 | Qǐng gěi wǒ yī bēi shuǐ. | Dammi un bicchiere d'acqua, per favore.
+上午 | shàngwǔ | sciang-u | mattina / mattinata | 上午我有课。 | Shàngwǔ wǒ yǒu kè. | La mattina ho lezione.
+慢 | màn | man | lento / piano | 请说慢一点。 | Qǐng shuō màn yīdiǎn. | Parla più piano, per favore.
+银行 | yínháng | in-hang | banca | 银行在超市旁边。 | Yínháng zài chāoshì pángbiān. | La banca è accanto al supermercato.
+唱歌 | chànggē | ciang-ghe | cantare | 她唱歌很好听。 | Tā chànggē hěn hǎotīng. | Canta molto bene.
+高 | gāo | gao | alto | 他比我高。 | Tā bǐ wǒ gāo. | Lui è più alto di me.
+百 | bǎi | bai | cento | 这本书一百块。 | Zhè běn shū yī bǎi kuài. | Questo libro costa cento yuan.
+门 | mén | men | porta | 请关门。 | Qǐng guān mén. | Chiudi la porta, per favore.
+眼睛 | yǎnjing | ien-ging | occhi / occhio | 她的眼睛很大。 | Tā de yǎnjing hěn dà. | Ha gli occhi molto grandi.
+春天 | chūntiān | ciuen-tien | primavera | 春天很漂亮。 | Chūntiān hěn piàoliang. | La primavera è molto bella.
+问 | wèn | uen | chiedere / domandare | 我可以问你吗？ | Wǒ kěyǐ wèn nǐ ma? | Posso chiederti una cosa?
+晚饭 | wǎnfàn | uan-fan | cena | 我们七点吃晚饭。 | Wǒmen qī diǎn chī wǎnfàn. | Ceniamo alle sette.
+块 | kuài | kuai | yuan / pezzo | 一个苹果三块。 | Yī gè píngguǒ sān kuài. | Una mela costa tre yuan.
+可以 | kěyǐ | ke-i | potere | 我可以进来吗？ | Wǒ kěyǐ jìnlái ma? | Posso entrare?
+午饭 | wǔfàn | u-fan | pranzo | 你午饭吃什么？ | Nǐ wǔfàn chī shénme? | Cosa mangi a pranzo?
+难 | nán | nan | difficile | 中文不太难。 | Zhōngwén bù tài nán. | Il cinese non è troppo difficile.
+电脑 | diànnǎo | dien-nao | computer | 我的电脑很慢。 | Wǒ de diànnǎo hěn màn. | Il mio computer è molto lento.
+关 | guān | guan | chiudere / spegnere | 请关灯。 | Qǐng guān dēng. | Spegni la luce, per favore.
+黑色 | hēisè | hei-se | nero | 我有一只黑色的狗。 | Wǒ yǒu yī zhī hēisè de gǒu. | Ho un cane nero.
+夏天 | xiàtiān | scia-tien | estate | 夏天我去海边。 | Xiàtiān wǒ qù hǎibiān. | D'estate vado al mare.
+卖 | mài | mai | vendere | 这里卖水果吗？ | Zhèlǐ mài shuǐguǒ ma? | Qui vendono frutta?
+问题 | wèntí | uen-ti | domanda / problema | 没问题。 | Méi wèntí. | Nessun problema.
+容易 | róngyì | rong-i | facile | 这个问题很容易。 | Zhège wèntí hěn róngyì. | Questa domanda è molto facile.
+穿 | chuān | ciuan | indossare / mettere | 今天很冷，多穿衣服。 | Jīntiān hěn lěng, duō chuān yīfu. | Oggi fa freddo, vestiti pesante.
+旁边 | pángbiān | pang-bien | accanto / vicino / di fianco | 我坐在他旁边。 | Wǒ zuò zài tā pángbiān. | Mi siedo accanto a lui.
+鞋 | xié | scie | scarpe / scarpa | 这双鞋很贵。 | Zhè shuāng xié hěn guì. | Queste scarpe sono molto care.
+欢迎 | huānyíng | huan-ing | benvenuto / accogliere | 欢迎你来中国。 | Huānyíng nǐ lái Zhōngguó. | Benvenuto in Cina.
+动物 | dòngwù | dong-u | animale / animali | 你喜欢什么动物？ | Nǐ xǐhuan shénme dòngwù? | Che animale ti piace?
+没关系 | méi guānxi | mei-guan-sci | non fa niente / non importa | 没关系，我们走吧。 | Méi guānxi, wǒmen zǒu ba. | Non importa, andiamo.
+分钟 | fēnzhōng | fen-giong | minuto / minuti | 请等我五分钟。 | Qǐng děng wǒ wǔ fēnzhōng. | Aspettami cinque minuti, per favore.
+不客气 | bù kèqi | bu-ke-ci | prego / di niente | 不客气，再见。 | Bù kèqi, zàijiàn. | Prego, arrivederci.
+准备 | zhǔnbèi | giuen-bei | preparare / prepararsi | 我在准备晚饭。 | Wǒ zài zhǔnbèi wǎnfàn. | Sto preparando la cena.
+足球 | zúqiú | dzu-ciu | calcio | 意大利人喜欢足球。 | Yìdàlìrén xǐhuan zúqiú. | Agli italiani piace il calcio.
+第一 | dìyī | di-i | primo / prima | 这是我第一次来北京。 | Zhè shì wǒ dìyī cì lái Běijīng. | È la prima volta che vengo a Pechino.
+雪 | xuě | sciue | neve | 外面下雪了。 | Wàimiàn xià xuě le. | Fuori nevica.
+外面 | wàimiàn | uai-mien | fuori | 外面很冷。 | Wàimiàn hěn lěng. | Fuori fa molto freddo.
+身体 | shēntǐ | scen-ti | corpo / salute | 你身体好吗？ | Nǐ shēntǐ hǎo ma? | Stai bene di salute?
+生病 | shēngbìng | sceng-bing | ammalarsi / essere malato | 我生病了。 | Wǒ shēngbìng le. | Mi sono ammalato.
+药 | yào | iao | medicina / farmaco | 你吃药了吗？ | Nǐ chī yào le ma? | Hai preso la medicina?
+里 | lǐ | li | dentro / in | 家里有人吗？ | Jiā lǐ yǒu rén ma? | C'è qualcuno in casa?
+秋天 | qiūtiān | ciu-tien | autunno | 北京的秋天很美。 | Běijīng de qiūtiān hěn měi. | L'autunno a Pechino è bellissimo.
+天 | tiān | tien | giorno / cielo | 我在北京住了三天。 | Wǒ zài Běijīng zhù le sān tiān. | Sono rimasto a Pechino tre giorni.
+学生 | xuésheng | sciue-sceng | studente / studentessa / alunno | 我是学生。 | Wǒ shì xuésheng. | Sono uno studente.
+教室 | jiàoshì | giao-sce | aula / classe | 学生在教室里。 | Xuésheng zài jiàoshì lǐ. | Gli studenti sono in aula.
+自行车 | zìxíngchē | dze-scing-ce | bicicletta / bici | 我骑自行车上班。 | Wǒ qí zìxíngchē shàngbān. | Vado al lavoro in bicicletta.
+洗手间 | xǐshǒujiān | sci-sciou-gien | bagno / toilette | 洗手间在哪里？ | Xǐshǒujiān zài nǎlǐ? | Dov'è il bagno?
+告诉 | gàosu | gao-su | dire / raccontare | 请告诉我你的名字。 | Qǐng gàosu wǒ nǐ de míngzi. | Dimmi il tuo nome, per favore.
+对 | duì | duei | giusto / corretto / esatto | 你说得对。 | Nǐ shuō de duì. | Hai ragione.
+错 | cuò | tsuo | sbagliato / errore | 我错了。 | Wǒ cuò le. | Ho sbagliato.
+每 | měi | mei | ogni | 我每天学中文。 | Wǒ měi tiān xué Zhōngwén. | Studio cinese ogni giorno.
+冬天 | dōngtiān | dong-tien | inverno | 我不喜欢冬天。 | Wǒ bù xǐhuan dōngtiān. | Non mi piace l'inverno.
+玩 | wán | uan | giocare / divertirsi | 孩子们在外面玩。 | Háizimen zài wàimiàn wán. | I bambini giocano fuori.
+帽子 | màozi | mao-dze | cappello | 这个帽子很好看。 | Zhège màozi hěn hǎokàn. | Questo cappello è molto bello.
+肉 | ròu | rou | carne | 我不吃肉。 | Wǒ bù chī ròu. | Non mangio carne.
+灯 | dēng | deng | luce / lampada | 请开灯。 | Qǐng kāi dēng. | Accendi la luce, per favore.
+面包 | miànbāo | mien-bao | pane | 早上我吃面包。 | Zǎoshang wǒ chī miànbāo. | La mattina mangio pane.
+旅游 | lǚyóu | liu-iou | viaggiare / turismo | 我喜欢去旅游。 | Wǒ xǐhuan qù lǚyóu. | Mi piace viaggiare.
+酒店 | jiǔdiàn | giu-dien | albergo / hotel | 我们的酒店很近。 | Wǒmen de jiǔdiàn hěn jìn. | Il nostro albergo è molto vicino.
+啤酒 | píjiǔ | pi-giu | birra | 他想喝啤酒。 | Tā xiǎng hē píjiǔ. | Vuole bere una birra.
+绿色 | lǜsè | liu-se | verde | 我的车是绿色的。 | Wǒ de chē shì lǜsè de. | La mia macchina è verde.
+从 | cóng | tsong | da | 我从意大利来。 | Wǒ cóng Yìdàlì lái. | Vengo dall'Italia.
+到 | dào | dao | arrivare / fino a | 我到家了。 | Wǒ dào jiā le. | Sono arrivato a casa.
+包 | bāo | bao | borsa / zaino | 我的包在哪里？ | Wǒ de bāo zài nǎlǐ? | Dov'è la mia borsa?
+离 | lí | li | da / distante da | 学校离这儿很近。 | Xuéxiào lí zhèr hěn jìn. | La scuola è vicina a qui.
+路 | lù | lu | strada / via | 这条路很长。 | Zhè tiáo lù hěn cháng. | Questa strada è molto lunga.
+长 | cháng | ciang | lungo | 她的头发很长。 | Tā de tóufa hěn cháng. | Ha i capelli molto lunghi.
+小时 | xiǎoshí | sciao-sce | ora / ore | 我每天工作八个小时。 | Wǒ měi tiān gōngzuò bā gè xiǎoshí. | Lavoro otto ore al giorno.
+短 | duǎn | duan | corto / breve | 这件衣服太短了。 | Zhè jiàn yīfu tài duǎn le. | Questo vestito è troppo corto.
+头发 | tóufa | tou-fa | capelli | 他的头发是黑色的。 | Tā de tóufa shì hēisè de. | Ha i capelli neri.
+公园 | gōngyuán | gong-iuen | parco | 我们去公园走走吧。 | Wǒmen qù gōngyuán zǒuzou ba. | Andiamo a fare due passi al parco.
+花 | huā | hua | fiore / fiori | 公园里有很多花。 | Gōngyuán lǐ yǒu hěn duō huā. | Nel parco ci sono molti fiori.
+一起 | yīqǐ | i-ci | insieme | 我们一起去吧。 | Wǒmen yīqǐ qù ba. | Andiamo insieme.
+已经 | yǐjīng | i-ging | già | 我已经吃饭了。 | Wǒ yǐjīng chī fàn le. | Ho già mangiato.
+还 | hái | hai | ancora / anche | 他还没来。 | Tā hái méi lái. | Non è ancora arrivato.
+也 | yě | ie | anche | 我也是学生。 | Wǒ yě shì xuésheng. | Anch'io sono studente.
+早 | zǎo | dzao | presto | 你今天来得很早。 | Nǐ jīntiān lái de hěn zǎo. | Oggi sei arrivato molto presto.
+和 | hé | he | e / con | 我和妈妈去超市。 | Wǒ hé māma qù chāoshì. | Io e la mamma andiamo al supermercato.
+但是 | dànshì | dan-sce | ma / però | 我想去，但是我很忙。 | Wǒ xiǎng qù, dànshì wǒ hěn máng. | Vorrei andare, ma sono molto impegnato.
+因为 | yīnwèi | in-uei | perché / poiché | 我不去，因为下雨了。 | Wǒ bù qù, yīnwèi xià yǔ le. | Non vado perché piove.
+所以 | suǒyǐ | suo-i | quindi / perciò | 我很累，所以想睡觉。 | Wǒ hěn lèi, suǒyǐ xiǎng shuìjiào. | Sono stanco, quindi voglio dormire.
+为什么 | wèishénme | uei-scen-me | perché | 你为什么学中文？ | Nǐ wèishénme xué Zhōngwén? | Perché studi cinese?
+地铁 | dìtiě | di-tie | metropolitana / metro | 我坐地铁上班。 | Wǒ zuò dìtiě shàngbān. | Vado al lavoro in metropolitana.
+怎么 | zěnme | dzen-me | come | 这个字怎么读？ | Zhège zì zěnme dú? | Come si legge questo carattere?
+上班 | shàngbān | sciang-ban | andare al lavoro / lavorare | 你几点上班？ | Nǐ jǐ diǎn shàngbān? | A che ora vai al lavoro?
+休息 | xiūxi | sciu-sci | riposare / riposarsi | 你累了，休息一下吧。 | Nǐ lèi le, xiūxi yīxià ba. | Sei stanco, riposati un po'.
+舒服 | shūfu | sciu-fu | comodo / a proprio agio | 我不舒服。 | Wǒ bù shūfu. | Non mi sento bene.
+干净 | gānjìng | gan-ging | pulito | 这个房间很干净。 | Zhège fángjiān hěn gānjìng. | Questa stanza è molto pulita.
+山 | shān | scian | montagna / monte | 那座山很高。 | Nà zuò shān hěn gāo. | Quella montagna è molto alta.
+怎么样 | zěnmeyàng | dzen-me-iang | come / com'è | 你的工作怎么样？ | Nǐ de gōngzuò zěnmeyàng? | Come va il tuo lavoro?
+太阳 | tàiyáng | tai-iang | sole | 今天太阳很大。 | Jīntiān tàiyáng hěn dà. | Oggi c'è un sole forte.
+月亮 | yuèliang | iue-liang | luna | 今天的月亮很圆。 | Jīntiān de yuèliang hěn yuán. | Stasera la luna è piena.
+看见 | kànjiàn | kan-gien | vedere | 你看见我的猫了吗？ | Nǐ kànjiàn wǒ de māo le ma? | Hai visto il mio gatto?
+找 | zhǎo | giao | cercare | 我在找我的手机。 | Wǒ zài zhǎo wǒ de shǒujī. | Sto cercando il mio cellulare.
+用 | yòng | iong | usare | 我可以用你的电脑吗？ | Wǒ kěyǐ yòng nǐ de diànnǎo ma? | Posso usare il tuo computer?
+送 | sòng | song | regalare / accompagnare | 我送你一本书。 | Wǒ sòng nǐ yī běn shū. | Ti regalo un libro.
+礼物 | lǐwù | li-u | regalo | 这是给你的礼物。 | Zhè shì gěi nǐ de lǐwù. | Questo è un regalo per te.
+希望 | xīwàng | sci-uang | sperare / speranza | 我希望明天不下雨。 | Wǒ xīwàng míngtiān bù xià yǔ. | Spero che domani non piova.
+觉得 | juéde | giue-de | pensare / trovare / sentire | 我觉得中文很有意思。 | Wǒ juéde Zhōngwén hěn yǒu yìsi. | Trovo il cinese molto interessante.
+机场 | jīchǎng | gi-ciang | aeroporto | 我们去机场吧。 | Wǒmen qù jīchǎng ba. | Andiamo all'aeroporto.
+有意思 | yǒu yìsi | iou-i-se | interessante | 这本书很有意思。 | Zhè běn shū hěn yǒu yìsi. | Questo libro è molto interessante.
+票 | piào | piao | biglietto | 我买了两张票。 | Wǒ mǎi le liǎng zhāng piào. | Ho comprato due biglietti.
+开始 | kāishǐ | kai-sce | cominciare / iniziare | 电影几点开始？ | Diànyǐng jǐ diǎn kāishǐ? | A che ora inizia il film?
+课 | kè | ke | lezione | 今天我们有中文课。 | Jīntiān wǒmen yǒu Zhōngwén kè. | Oggi abbiamo lezione di cinese.
+结束 | jiéshù | gie-sciu | finire / terminare | 课结束了。 | Kè jiéshù le. | La lezione è finita.
+考试 | kǎoshì | kao-sce | esame | 明天有考试。 | Míngtiān yǒu kǎoshì. | Domani c'è un esame.
+作业 | zuòyè | dzuo-ie | compiti | 我在做作业。 | Wǒ zài zuò zuòyè. | Sto facendo i compiti.
+懂 | dǒng | dong | capire | 你懂了吗？ | Nǐ dǒng le ma? | Hai capito?
+带 | dài | dai | portare | 你带钱了吗？ | Nǐ dài qián le ma? | Hai portato i soldi?
+忘记 | wàngjì | uang-gi | dimenticare | 别忘记带手机。 | Bié wàngjì dài shǒujī. | Non dimenticare di portare il cellulare.
+树 | shù | sciu | albero | 这棵树很高。 | Zhè kē shù hěn gāo. | Quest'albero è molto alto.
+鸟 | niǎo | niao | uccello | 树上有一只鸟。 | Shù shang yǒu yī zhī niǎo. | Sull'albero c'è un uccello.
+胖 | pàng | pang | grasso | 我的猫很胖。 | Wǒ de māo hěn pàng. | Il mio gatto è molto grasso.
+马 | mǎ | ma | cavallo | 这匹马跑得很快。 | Zhè pǐ mǎ pǎo de hěn kuài. | Questo cavallo corre molto veloce.
+瘦 | shòu | sciou | magro | 他很瘦。 | Tā hěn shòu. | Lui è molto magro.
+饿 | è | e | affamato / fame | 我饿了。 | Wǒ è le. | Ho fame.
+渴 | kě | ke | assetato / sete | 我很渴。 | Wǒ hěn kě. | Ho molta sete.
+西瓜 | xīguā | sci-gua | anguria / cocomero | 夏天我喜欢吃西瓜。 | Xiàtiān wǒ xǐhuan chī xīguā. | D'estate mi piace mangiare l'anguria.
+甜 | tián | tien | dolce | 这个西瓜很甜。 | Zhège xīguā hěn tián. | Quest'anguria è molto dolce.
+香蕉 | xiāngjiāo | sciang-giao | banana | 这些香蕉很便宜。 | Zhèxiē xiāngjiāo hěn piányi. | Queste banane costano poco.
+蛋糕 | dàngāo | dan-gao | torta | 生日蛋糕很好吃。 | Shēngrì dàngāo hěn hǎochī. | La torta di compleanno è buonissima.
+筷子 | kuàizi | kuai-dze | bacchette | 你会用筷子吗？ | Nǐ huì yòng kuàizi ma? | Sai usare le bacchette?
+碗 | wǎn | uan | ciotola / scodella | 我吃了一碗米饭。 | Wǒ chī le yī wǎn mǐfàn. | Ho mangiato una ciotola di riso.
+刷牙 | shuāyá | sciua-ia | lavarsi i denti | 我每天刷牙两次。 | Wǒ měi tiān shuāyá liǎng cì. | Mi lavo i denti due volte al giorno.
+洗澡 | xǐzǎo | sci-dzao | fare la doccia / fare il bagno | 我晚上洗澡。 | Wǒ wǎnshang xǐzǎo. | Faccio la doccia la sera.
+城市 | chéngshì | ceng-sce | città | 这个城市很大。 | Zhège chéngshì hěn dà. | Questa città è molto grande.
+国家 | guójiā | guo-gia | paese / nazione / stato | 你去过哪些国家？ | Nǐ qù guo nǎxiē guójiā? | In quali paesi sei stato?
+地方 | dìfang | di-fang | posto / luogo | 这个地方很漂亮。 | Zhège dìfang hěn piàoliang. | Questo posto è molto bello.
+左边 | zuǒbian | dzuo-bien | sinistra | 银行在左边。 | Yínháng zài zuǒbian. | La banca è a sinistra.
+右边 | yòubian | iou-bien | destra | 请往右边走。 | Qǐng wǎng yòubian zǒu. | Vada a destra, per favore.
+前面 | qiánmiàn | cien-mien | davanti | 前面有一家商店。 | Qiánmiàn yǒu yī jiā shāngdiàn. | Più avanti c'è un negozio.
+后面 | hòumiàn | hou-mien | dietro | 学校后面有一个公园。 | Xuéxiào hòumiàn yǒu yī gè gōngyuán. | Dietro la scuola c'è un parco.
+颜色 | yánsè | ien-se | colore | 你喜欢什么颜色？ | Nǐ xǐhuan shénme yánsè? | Che colore ti piace?
+最 | zuì | dzuei | più / di più | 我最喜欢春天。 | Wǒ zuì xǐhuan chūntiān. | La primavera è la stagione che preferisco.
+比 | bǐ | bi | più di / rispetto a | 今天比昨天冷。 | Jīntiān bǐ zuótiān lěng. | Oggi fa più freddo di ieri.
+刚才 | gāngcái | gang-tsai | poco fa / appena | 他刚才来过。 | Tā gāngcái lái guo. | È passato poco fa.
+以后 | yǐhòu | i-hou | dopo / in futuro | 下课以后我去吃饭。 | Xià kè yǐhòu wǒ qù chī fàn. | Dopo la lezione vado a mangiare.
+周末 | zhōumò | giou-mo | fine settimana / weekend | 周末你做什么？ | Zhōumò nǐ zuò shénme? | Cosa fai nel fine settimana?
+以前 | yǐqián | i-cien | prima / in passato | 以前我住在米兰。 | Yǐqián wǒ zhù zài Mǐlán. | Prima abitavo a Milano.
+音乐 | yīnyuè | in-iue | musica | 你喜欢什么音乐？ | Nǐ xǐhuan shénme yīnyuè? | Che musica ti piace?
+电视 | diànshì | dien-sce | televisione / tv | 爷爷在看电视。 | Yéye zài kàn diànshì. | Il nonno sta guardando la televisione.
+图书馆 | túshūguǎn | tu-sciu-guan | biblioteca | 我在图书馆看书。 | Wǒ zài túshūguǎn kàn shū. | Leggo in biblioteca.
