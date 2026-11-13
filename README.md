@@ -12,7 +12,7 @@ Skill Alexa privata, in italiano: ogni giorno **una parola inglese** (livello B1
 
 | Dici… | Succede |
 |---|---|
-| "Alexa, apri parole del mattino" | parte la lezione del giorno |
+| "Alexa, apri parole mattutine" | parte la lezione del giorno |
 | una risposta, es. "significa raggiungere" | Alexa corregge e dà la soluzione |
 | "non lo so" / "passo" | Alexa dà la soluzione (conta come risposta) |
 | "ripeti" | ripete l'ultima cosa detta |

@@ -21,7 +21,7 @@ const valori = new Set([
 const modello = {
     interactionModel: {
         languageModel: {
-            invocationName: 'parole del mattino',
+            invocationName: 'parole mattutine',
             intents: [
                 { name: 'AMAZON.CancelIntent', samples: [] },
                 { name: 'AMAZON.HelpIntent', samples: [] },

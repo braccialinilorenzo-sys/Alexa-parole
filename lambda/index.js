@@ -337,7 +337,7 @@ const HelpIntentHandler = {
     },
     handle(handlerInput) {
         const sessione = handlerInput.attributesManager.getSessionAttributes();
-        const domanda = sessione.ultimaDomanda || 'Vuoi cominciare? Dimmi: apri parole del mattino.';
+        const domanda = sessione.ultimaDomanda || 'Vuoi cominciare? Dimmi: apri parole mattutine.';
         const parlato = 'Ogni giorno ti propongo una parola inglese e una cinese. '
             + 'Rispondi alla domanda, oppure di\' "non lo so", e ti dico la soluzione. '
             + 'Finché non rispondi, le parole restano le stesse. '
