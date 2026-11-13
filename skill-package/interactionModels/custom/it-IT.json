@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "parole mattutine",
+      "invocationName": "parole del mattino",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
