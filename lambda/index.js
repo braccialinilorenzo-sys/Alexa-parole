@@ -35,6 +35,11 @@ function zhParola(voce) {
     return esc(voce.pronuncia);
 }
 
+// Toglie il punto finale (la frase viene già chiusa da un punto nel parlato).
+function frase(testo) {
+    return String(testo || '').trim().replace(/[.。]+$/, '');
+}
+
 function alternative(traduzione) {
     return String(traduzione).split('/').map((t) => t.trim()).filter(Boolean);
 }
@@ -74,15 +79,15 @@ function domandaCinese(voce, modo) {
 
 function soluzioneInglese(voce) {
     return `${en(voce.parola)} significa: ${esc(elencoTraduzioni(voce.traduzione))}. `
-        + `<break time="300ms"/> Esempio: ${en(voce.esempio)} <break time="300ms"/> Cioè: ${esc(voce.traduzioneEsempio)}.`;
+        + `<break time="300ms"/> Esempio: ${en(voce.esempio)} <break time="300ms"/> Cioè: ${esc(frase(voce.traduzioneEsempio))}.`;
 }
 
 function soluzioneCinese(voce) {
     let testo = `${zhParola(voce)} significa: ${esc(elencoTraduzioni(voce.traduzione))}. `;
     if (IMP.VOCE_CINESE) {
-        testo += `<break time="300ms"/> Esempio: <voice name="${IMP.VOCE_CINESE}">${esc(voce.esempio)}</voice> <break time="300ms"/> Cioè: ${esc(voce.traduzioneEsempio)}.`;
+        testo += `<break time="300ms"/> Esempio: <voice name="${IMP.VOCE_CINESE}">${esc(voce.esempio)}</voice> <break time="300ms"/> Cioè: ${esc(frase(voce.traduzioneEsempio))}.`;
     } else {
-        testo += `<break time="300ms"/> Una frase di esempio, che trovi anche sullo schermo, vuol dire: ${esc(voce.traduzioneEsempio)}.`;
+        testo += `<break time="300ms"/> Una frase di esempio, che trovi anche sullo schermo, vuol dire: ${esc(frase(voce.traduzioneEsempio))}.`;
     }
     return testo;
 }

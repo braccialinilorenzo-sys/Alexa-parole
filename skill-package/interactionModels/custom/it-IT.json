@@ -1,0 +1,5345 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "parole del mattino",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": []
+        },
+        {
+          "name": "RispostaIntent",
+          "slots": [
+            {
+              "name": "risposta",
+              "type": "RISPOSTA_LIBERA"
+            }
+          ],
+          "samples": [
+            "{risposta}",
+            "significa {risposta}",
+            "vuol dire {risposta}",
+            "credo {risposta}",
+            "credo che significhi {risposta}",
+            "penso {risposta}",
+            "forse {risposta}",
+            "è {risposta}",
+            "la risposta è {risposta}",
+            "si traduce {risposta}",
+            "in italiano è {risposta}",
+            "la mia frase è {risposta}",
+            "ecco la frase {risposta}"
+          ]
+        },
+        {
+          "name": "NonLoSoIntent",
+          "slots": [],
+          "samples": [
+            "non lo so",
+            "non so",
+            "non me lo ricordo",
+            "non ricordo",
+            "passo",
+            "boh",
+            "non ne ho idea",
+            "dimmi la soluzione",
+            "dimmelo tu",
+            "dimmi la risposta",
+            "non saprei",
+            "mi arrendo",
+            "salta",
+            "aiutami con la risposta"
+          ]
+        },
+        {
+          "name": "StatoIntent",
+          "slots": [],
+          "samples": [
+            "a che punto sono",
+            "quante parole ho fatto",
+            "come sto andando",
+            "dimmi i miei progressi",
+            "quante parole ci sono"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "RISPOSTA_LIBERA",
+          "values": [
+            {
+              "name": {
+                "value": "I like to learn new words every day"
+              }
+            },
+            {
+              "name": {
+                "value": "a"
+              }
+            },
+            {
+              "name": {
+                "value": "a distanza"
+              }
+            },
+            {
+              "name": {
+                "value": "a malapena"
+              }
+            },
+            {
+              "name": {
+                "value": "a meno che"
+              }
+            },
+            {
+              "name": {
+                "value": "a parte"
+              }
+            },
+            {
+              "name": {
+                "value": "a portata di mano"
+              }
+            },
+            {
+              "name": {
+                "value": "a proprio agio"
+              }
+            },
+            {
+              "name": {
+                "value": "a quanto pare"
+              }
+            },
+            {
+              "name": {
+                "value": "abbassare"
+              }
+            },
+            {
+              "name": {
+                "value": "abitare"
+              }
+            },
+            {
+              "name": {
+                "value": "abiti"
+              }
+            },
+            {
+              "name": {
+                "value": "abito"
+              }
+            },
+            {
+              "name": {
+                "value": "abituale"
+              }
+            },
+            {
+              "name": {
+                "value": "accadere"
+              }
+            },
+            {
+              "name": {
+                "value": "accanto"
+              }
+            },
+            {
+              "name": {
+                "value": "accendere"
+              }
+            },
+            {
+              "name": {
+                "value": "accennare"
+              }
+            },
+            {
+              "name": {
+                "value": "accogliente"
+              }
+            },
+            {
+              "name": {
+                "value": "accogliere"
+              }
+            },
+            {
+              "name": {
+                "value": "accompagnare"
+              }
+            },
+            {
+              "name": {
+                "value": "accorgersi"
+              }
+            },
+            {
+              "name": {
+                "value": "accurato"
+              }
+            },
+            {
+              "name": {
+                "value": "acqua"
+              }
+            },
+            {
+              "name": {
+                "value": "adatto"
+              }
+            },
+            {
+              "name": {
+                "value": "addebitare"
+              }
+            },
+            {
+              "name": {
+                "value": "addirsi"
+              }
+            },
+            {
+              "name": {
+                "value": "adeguato"
+              }
+            },
+            {
+              "name": {
+                "value": "adesso"
+              }
+            },
+            {
+              "name": {
+                "value": "aereo"
+              }
+            },
+            {
+              "name": {
+                "value": "aeroporto"
+              }
+            },
+            {
+              "name": {
+                "value": "affamato"
+              }
+            },
+            {
+              "name": {
+                "value": "affare"
+              }
+            },
+            {
+              "name": {
+                "value": "affermare"
+              }
+            },
+            {
+              "name": {
+                "value": "afferrare"
+              }
+            },
+            {
+              "name": {
+                "value": "affezionato"
+              }
+            },
+            {
+              "name": {
+                "value": "affidabile"
+              }
+            },
+            {
+              "name": {
+                "value": "affrettarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "affrontare"
+              }
+            },
+            {
+              "name": {
+                "value": "agenda"
+              }
+            },
+            {
+              "name": {
+                "value": "aiutare"
+              }
+            },
+            {
+              "name": {
+                "value": "aiuto"
+              }
+            },
+            {
+              "name": {
+                "value": "al giorno d'oggi"
+              }
+            },
+            {
+              "name": {
+                "value": "al verde"
+              }
+            },
+            {
+              "name": {
+                "value": "albergo"
+              }
+            },
+            {
+              "name": {
+                "value": "albero"
+              }
+            },
+            {
+              "name": {
+                "value": "alla fine"
+              }
+            },
+            {
+              "name": {
+                "value": "allegare"
+              }
+            },
+            {
+              "name": {
+                "value": "allegro"
+              }
+            },
+            {
+              "name": {
+                "value": "allentato"
+              }
+            },
+            {
+              "name": {
+                "value": "allestire"
+              }
+            },
+            {
+              "name": {
+                "value": "allo stesso modo"
+              }
+            },
+            {
+              "name": {
+                "value": "allungare"
+              }
+            },
+            {
+              "name": {
+                "value": "allungarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "alto"
+              }
+            },
+            {
+              "name": {
+                "value": "altrimenti"
+              }
+            },
+            {
+              "name": {
+                "value": "alunno"
+              }
+            },
+            {
+              "name": {
+                "value": "alzarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "amare"
+              }
+            },
+            {
+              "name": {
+                "value": "amica"
+              }
+            },
+            {
+              "name": {
+                "value": "amico"
+              }
+            },
+            {
+              "name": {
+                "value": "ammalarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "amore"
+              }
+            },
+            {
+              "name": {
+                "value": "anche"
+              }
+            },
+            {
+              "name": {
+                "value": "anche se"
+              }
+            },
+            {
+              "name": {
+                "value": "ancora"
+              }
+            },
+            {
+              "name": {
+                "value": "andare"
+              }
+            },
+            {
+              "name": {
+                "value": "andare a prendere"
+              }
+            },
+            {
+              "name": {
+                "value": "andare al lavoro"
+              }
+            },
+            {
+              "name": {
+                "value": "andare al lavoro la mattina"
+              }
+            },
+            {
+              "name": {
+                "value": "andare d'accordo"
+              }
+            },
+            {
+              "name": {
+                "value": "andare in pensione"
+              }
+            },
+            {
+              "name": {
+                "value": "andarsene"
+              }
+            },
+            {
+              "name": {
+                "value": "anguria"
+              }
+            },
+            {
+              "name": {
+                "value": "animale"
+              }
+            },
+            {
+              "name": {
+                "value": "animali"
+              }
+            },
+            {
+              "name": {
+                "value": "anni"
+              }
+            },
+            {
+              "name": {
+                "value": "anno"
+              }
+            },
+            {
+              "name": {
+                "value": "anno di età"
+              }
+            },
+            {
+              "name": {
+                "value": "ansioso"
+              }
+            },
+            {
+              "name": {
+                "value": "apparentemente"
+              }
+            },
+            {
+              "name": {
+                "value": "appena"
+              }
+            },
+            {
+              "name": {
+                "value": "appendere"
+              }
+            },
+            {
+              "name": {
+                "value": "appoggiarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "apprezzare"
+              }
+            },
+            {
+              "name": {
+                "value": "approfondito"
+              }
+            },
+            {
+              "name": {
+                "value": "approssimativo"
+              }
+            },
+            {
+              "name": {
+                "value": "appuntamento"
+              }
+            },
+            {
+              "name": {
+                "value": "aprire"
+              }
+            },
+            {
+              "name": {
+                "value": "arrabbiato"
+              }
+            },
+            {
+              "name": {
+                "value": "arrendersi"
+              }
+            },
+            {
+              "name": {
+                "value": "arrivare"
+              }
+            },
+            {
+              "name": {
+                "value": "arrivederci"
+              }
+            },
+            {
+              "name": {
+                "value": "asciugare"
+              }
+            },
+            {
+              "name": {
+                "value": "ascoltare"
+              }
+            },
+            {
+              "name": {
+                "value": "aspettare"
+              }
+            },
+            {
+              "name": {
+                "value": "assetato"
+              }
+            },
+            {
+              "name": {
+                "value": "assicurare"
+              }
+            },
+            {
+              "name": {
+                "value": "assicurarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "assicurazione"
+              }
+            },
+            {
+              "name": {
+                "value": "assumere"
+              }
+            },
+            {
+              "name": {
+                "value": "attaccare"
+              }
+            },
+            {
+              "name": {
+                "value": "atteggiamento"
+              }
+            },
+            {
+              "name": {
+                "value": "attendere con ansia"
+              }
+            },
+            {
+              "name": {
+                "value": "attillato"
+              }
+            },
+            {
+              "name": {
+                "value": "attuale"
+              }
+            },
+            {
+              "name": {
+                "value": "augurare"
+              }
+            },
+            {
+              "name": {
+                "value": "aula"
+              }
+            },
+            {
+              "name": {
+                "value": "autentico"
+              }
+            },
+            {
+              "name": {
+                "value": "auto"
+              }
+            },
+            {
+              "name": {
+                "value": "autunno"
+              }
+            },
+            {
+              "name": {
+                "value": "avanti"
+              }
+            },
+            {
+              "name": {
+                "value": "avanzi"
+              }
+            },
+            {
+              "name": {
+                "value": "avere"
+              }
+            },
+            {
+              "name": {
+                "value": "avere difficoltà"
+              }
+            },
+            {
+              "name": {
+                "value": "avere la tendenza"
+              }
+            },
+            {
+              "name": {
+                "value": "avere successo"
+              }
+            },
+            {
+              "name": {
+                "value": "avvertire"
+              }
+            },
+            {
+              "name": {
+                "value": "avviare"
+              }
+            },
+            {
+              "name": {
+                "value": "avvolgere"
+              }
+            },
+            {
+              "name": {
+                "value": "azienda"
+              }
+            },
+            {
+              "name": {
+                "value": "bacchette"
+              }
+            },
+            {
+              "name": {
+                "value": "badare"
+              }
+            },
+            {
+              "name": {
+                "value": "bagno"
+              }
+            },
+            {
+              "name": {
+                "value": "ballare"
+              }
+            },
+            {
+              "name": {
+                "value": "bambino"
+              }
+            },
+            {
+              "name": {
+                "value": "banana"
+              }
+            },
+            {
+              "name": {
+                "value": "banca"
+              }
+            },
+            {
+              "name": {
+                "value": "bellissimo"
+              }
+            },
+            {
+              "name": {
+                "value": "bello"
+              }
+            },
+            {
+              "name": {
+                "value": "benché"
+              }
+            },
+            {
+              "name": {
+                "value": "bene"
+              }
+            },
+            {
+              "name": {
+                "value": "beneficio"
+              }
+            },
+            {
+              "name": {
+                "value": "benestante"
+              }
+            },
+            {
+              "name": {
+                "value": "benvenuto"
+              }
+            },
+            {
+              "name": {
+                "value": "bere"
+              }
+            },
+            {
+              "name": {
+                "value": "bianco"
+              }
+            },
+            {
+              "name": {
+                "value": "biblioteca"
+              }
+            },
+            {
+              "name": {
+                "value": "bicchiere"
+              }
+            },
+            {
+              "name": {
+                "value": "bici"
+              }
+            },
+            {
+              "name": {
+                "value": "bicicletta"
+              }
+            },
+            {
+              "name": {
+                "value": "biglietto"
+              }
+            },
+            {
+              "name": {
+                "value": "birra"
+              }
+            },
+            {
+              "name": {
+                "value": "bizzarro"
+              }
+            },
+            {
+              "name": {
+                "value": "bolletta"
+              }
+            },
+            {
+              "name": {
+                "value": "borsa"
+              }
+            },
+            {
+              "name": {
+                "value": "breve"
+              }
+            },
+            {
+              "name": {
+                "value": "brutto"
+              }
+            },
+            {
+              "name": {
+                "value": "buongiorno"
+              }
+            },
+            {
+              "name": {
+                "value": "buono"
+              }
+            },
+            {
+              "name": {
+                "value": "buttare via"
+              }
+            },
+            {
+              "name": {
+                "value": "caffè"
+              }
+            },
+            {
+              "name": {
+                "value": "calcio"
+              }
+            },
+            {
+              "name": {
+                "value": "caldo"
+              }
+            },
+            {
+              "name": {
+                "value": "calmarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "cambiamento"
+              }
+            },
+            {
+              "name": {
+                "value": "camera"
+              }
+            },
+            {
+              "name": {
+                "value": "camminare"
+              }
+            },
+            {
+              "name": {
+                "value": "cane"
+              }
+            },
+            {
+              "name": {
+                "value": "cantare"
+              }
+            },
+            {
+              "name": {
+                "value": "capelli"
+              }
+            },
+            {
+              "name": {
+                "value": "capire"
+              }
+            },
+            {
+              "name": {
+                "value": "cappello"
+              }
+            },
+            {
+              "name": {
+                "value": "carattere cinese"
+              }
+            },
+            {
+              "name": {
+                "value": "caratteri cinesi"
+              }
+            },
+            {
+              "name": {
+                "value": "caratteristica"
+              }
+            },
+            {
+              "name": {
+                "value": "carenza"
+              }
+            },
+            {
+              "name": {
+                "value": "caricare"
+              }
+            },
+            {
+              "name": {
+                "value": "carino"
+              }
+            },
+            {
+              "name": {
+                "value": "carne"
+              }
+            },
+            {
+              "name": {
+                "value": "caro"
+              }
+            },
+            {
+              "name": {
+                "value": "casa"
+              }
+            },
+            {
+              "name": {
+                "value": "casino"
+              }
+            },
+            {
+              "name": {
+                "value": "cattivo"
+              }
+            },
+            {
+              "name": {
+                "value": "cauto"
+              }
+            },
+            {
+              "name": {
+                "value": "cavallo"
+              }
+            },
+            {
+              "name": {
+                "value": "cavarsela"
+              }
+            },
+            {
+              "name": {
+                "value": "cellulare"
+              }
+            },
+            {
+              "name": {
+                "value": "cena"
+              }
+            },
+            {
+              "name": {
+                "value": "cento"
+              }
+            },
+            {
+              "name": {
+                "value": "cercare"
+              }
+            },
+            {
+              "name": {
+                "value": "che"
+              }
+            },
+            {
+              "name": {
+                "value": "che cosa"
+              }
+            },
+            {
+              "name": {
+                "value": "chi"
+              }
+            },
+            {
+              "name": {
+                "value": "chiamare"
+              }
+            },
+            {
+              "name": {
+                "value": "chiamarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "chiedere"
+              }
+            },
+            {
+              "name": {
+                "value": "chiedere scusa"
+              }
+            },
+            {
+              "name": {
+                "value": "chiedersi"
+              }
+            },
+            {
+              "name": {
+                "value": "chirurgia"
+              }
+            },
+            {
+              "name": {
+                "value": "chiudere"
+              }
+            },
+            {
+              "name": {
+                "value": "ciao"
+              }
+            },
+            {
+              "name": {
+                "value": "cibo"
+              }
+            },
+            {
+              "name": {
+                "value": "cielo"
+              }
+            },
+            {
+              "name": {
+                "value": "cina"
+              }
+            },
+            {
+              "name": {
+                "value": "cinema"
+              }
+            },
+            {
+              "name": {
+                "value": "cinese"
+              }
+            },
+            {
+              "name": {
+                "value": "cinque"
+              }
+            },
+            {
+              "name": {
+                "value": "ciotola"
+              }
+            },
+            {
+              "name": {
+                "value": "circondato"
+              }
+            },
+            {
+              "name": {
+                "value": "citare"
+              }
+            },
+            {
+              "name": {
+                "value": "città"
+              }
+            },
+            {
+              "name": {
+                "value": "classe"
+              }
+            },
+            {
+              "name": {
+                "value": "clima"
+              }
+            },
+            {
+              "name": {
+                "value": "cocomero"
+              }
+            },
+            {
+              "name": {
+                "value": "coerente"
+              }
+            },
+            {
+              "name": {
+                "value": "coinvolgere"
+              }
+            },
+            {
+              "name": {
+                "value": "colazione"
+              }
+            },
+            {
+              "name": {
+                "value": "colore"
+              }
+            },
+            {
+              "name": {
+                "value": "colpevole"
+              }
+            },
+            {
+              "name": {
+                "value": "colpito"
+              }
+            },
+            {
+              "name": {
+                "value": "com'è"
+              }
+            },
+            {
+              "name": {
+                "value": "come"
+              }
+            },
+            {
+              "name": {
+                "value": "cominciare"
+              }
+            },
+            {
+              "name": {
+                "value": "commissione"
+              }
+            },
+            {
+              "name": {
+                "value": "comodo"
+              }
+            },
+            {
+              "name": {
+                "value": "compagno"
+              }
+            },
+            {
+              "name": {
+                "value": "compagno di classe"
+              }
+            },
+            {
+              "name": {
+                "value": "compilare"
+              }
+            },
+            {
+              "name": {
+                "value": "compiti"
+              }
+            },
+            {
+              "name": {
+                "value": "compleanno"
+              }
+            },
+            {
+              "name": {
+                "value": "complessivamente"
+              }
+            },
+            {
+              "name": {
+                "value": "comportamento"
+              }
+            },
+            {
+              "name": {
+                "value": "comportare"
+              }
+            },
+            {
+              "name": {
+                "value": "comportarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "comprare"
+              }
+            },
+            {
+              "name": {
+                "value": "computer"
+              }
+            },
+            {
+              "name": {
+                "value": "comune"
+              }
+            },
+            {
+              "name": {
+                "value": "comunque"
+              }
+            },
+            {
+              "name": {
+                "value": "con"
+              }
+            },
+            {
+              "name": {
+                "value": "con le vertigini"
+              }
+            },
+            {
+              "name": {
+                "value": "confortevole"
+              }
+            },
+            {
+              "name": {
+                "value": "confuso"
+              }
+            },
+            {
+              "name": {
+                "value": "conoscenza"
+              }
+            },
+            {
+              "name": {
+                "value": "conoscere"
+              }
+            },
+            {
+              "name": {
+                "value": "consapevole"
+              }
+            },
+            {
+              "name": {
+                "value": "considerare"
+              }
+            },
+            {
+              "name": {
+                "value": "consigli"
+              }
+            },
+            {
+              "name": {
+                "value": "consiglio"
+              }
+            },
+            {
+              "name": {
+                "value": "contare su"
+              }
+            },
+            {
+              "name": {
+                "value": "contentissimo"
+              }
+            },
+            {
+              "name": {
+                "value": "contento"
+              }
+            },
+            {
+              "name": {
+                "value": "conto"
+              }
+            },
+            {
+              "name": {
+                "value": "convincere"
+              }
+            },
+            {
+              "name": {
+                "value": "convinzione"
+              }
+            },
+            {
+              "name": {
+                "value": "copiare"
+              }
+            },
+            {
+              "name": {
+                "value": "coraggio"
+              }
+            },
+            {
+              "name": {
+                "value": "corpo"
+              }
+            },
+            {
+              "name": {
+                "value": "corrente"
+              }
+            },
+            {
+              "name": {
+                "value": "correre"
+              }
+            },
+            {
+              "name": {
+                "value": "corretto"
+              }
+            },
+            {
+              "name": {
+                "value": "corto"
+              }
+            },
+            {
+              "name": {
+                "value": "cosa"
+              }
+            },
+            {
+              "name": {
+                "value": "cose"
+              }
+            },
+            {
+              "name": {
+                "value": "costante"
+              }
+            },
+            {
+              "name": {
+                "value": "costo"
+              }
+            },
+            {
+              "name": {
+                "value": "costoso"
+              }
+            },
+            {
+              "name": {
+                "value": "credenza"
+              }
+            },
+            {
+              "name": {
+                "value": "crescere"
+              }
+            },
+            {
+              "name": {
+                "value": "crollare"
+              }
+            },
+            {
+              "name": {
+                "value": "cruciale"
+              }
+            },
+            {
+              "name": {
+                "value": "curare"
+              }
+            },
+            {
+              "name": {
+                "value": "curva"
+              }
+            },
+            {
+              "name": {
+                "value": "da"
+              }
+            },
+            {
+              "name": {
+                "value": "danneggiare"
+              }
+            },
+            {
+              "name": {
+                "value": "danno"
+              }
+            },
+            {
+              "name": {
+                "value": "dare"
+              }
+            },
+            {
+              "name": {
+                "value": "dare fastidio"
+              }
+            },
+            {
+              "name": {
+                "value": "dare la colpa"
+              }
+            },
+            {
+              "name": {
+                "value": "davanti"
+              }
+            },
+            {
+              "name": {
+                "value": "davvero"
+              }
+            },
+            {
+              "name": {
+                "value": "decisamente"
+              }
+            },
+            {
+              "name": {
+                "value": "degno"
+              }
+            },
+            {
+              "name": {
+                "value": "delicato"
+              }
+            },
+            {
+              "name": {
+                "value": "delizioso"
+              }
+            },
+            {
+              "name": {
+                "value": "deludere"
+              }
+            },
+            {
+              "name": {
+                "value": "deluso"
+              }
+            },
+            {
+              "name": {
+                "value": "denaro"
+              }
+            },
+            {
+              "name": {
+                "value": "dentro"
+              }
+            },
+            {
+              "name": {
+                "value": "desiderare"
+              }
+            },
+            {
+              "name": {
+                "value": "desiderio"
+              }
+            },
+            {
+              "name": {
+                "value": "desideroso"
+              }
+            },
+            {
+              "name": {
+                "value": "destra"
+              }
+            },
+            {
+              "name": {
+                "value": "di buon umore"
+              }
+            },
+            {
+              "name": {
+                "value": "di cattivo umore"
+              }
+            },
+            {
+              "name": {
+                "value": "di fianco"
+              }
+            },
+            {
+              "name": {
+                "value": "di niente"
+              }
+            },
+            {
+              "name": {
+                "value": "di più"
+              }
+            },
+            {
+              "name": {
+                "value": "di rado"
+              }
+            },
+            {
+              "name": {
+                "value": "di recente"
+              }
+            },
+            {
+              "name": {
+                "value": "di riserva"
+              }
+            },
+            {
+              "name": {
+                "value": "di sicuro"
+              }
+            },
+            {
+              "name": {
+                "value": "diceria"
+              }
+            },
+            {
+              "name": {
+                "value": "dieci"
+              }
+            },
+            {
+              "name": {
+                "value": "dietro"
+              }
+            },
+            {
+              "name": {
+                "value": "difficile"
+              }
+            },
+            {
+              "name": {
+                "value": "diligente"
+              }
+            },
+            {
+              "name": {
+                "value": "dimenticare"
+              }
+            },
+            {
+              "name": {
+                "value": "dimettersi"
+              }
+            },
+            {
+              "name": {
+                "value": "dimostrazione"
+              }
+            },
+            {
+              "name": {
+                "value": "dipendente"
+              }
+            },
+            {
+              "name": {
+                "value": "dire"
+              }
+            },
+            {
+              "name": {
+                "value": "direttamente"
+              }
+            },
+            {
+              "name": {
+                "value": "diretto"
+              }
+            },
+            {
+              "name": {
+                "value": "diritto"
+              }
+            },
+            {
+              "name": {
+                "value": "discutere"
+              }
+            },
+            {
+              "name": {
+                "value": "disordine"
+              }
+            },
+            {
+              "name": {
+                "value": "dispari"
+              }
+            },
+            {
+              "name": {
+                "value": "dispiacere"
+              }
+            },
+            {
+              "name": {
+                "value": "dispiaciuto"
+              }
+            },
+            {
+              "name": {
+                "value": "disponibile"
+              }
+            },
+            {
+              "name": {
+                "value": "disposto"
+              }
+            },
+            {
+              "name": {
+                "value": "distante"
+              }
+            },
+            {
+              "name": {
+                "value": "distante da"
+              }
+            },
+            {
+              "name": {
+                "value": "distendere"
+              }
+            },
+            {
+              "name": {
+                "value": "disturbare"
+              }
+            },
+            {
+              "name": {
+                "value": "ditta"
+              }
+            },
+            {
+              "name": {
+                "value": "divertirsi"
+              }
+            },
+            {
+              "name": {
+                "value": "divieto"
+              }
+            },
+            {
+              "name": {
+                "value": "dolce"
+              }
+            },
+            {
+              "name": {
+                "value": "dolorante"
+              }
+            },
+            {
+              "name": {
+                "value": "domanda"
+              }
+            },
+            {
+              "name": {
+                "value": "domandare"
+              }
+            },
+            {
+              "name": {
+                "value": "domandarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "domani"
+              }
+            },
+            {
+              "name": {
+                "value": "donna"
+              }
+            },
+            {
+              "name": {
+                "value": "dopo"
+              }
+            },
+            {
+              "name": {
+                "value": "dormire"
+              }
+            },
+            {
+              "name": {
+                "value": "dottore"
+              }
+            },
+            {
+              "name": {
+                "value": "dove"
+              }
+            },
+            {
+              "name": {
+                "value": "dovere"
+              }
+            },
+            {
+              "name": {
+                "value": "dovuto"
+              }
+            },
+            {
+              "name": {
+                "value": "dritto"
+              }
+            },
+            {
+              "name": {
+                "value": "due"
+              }
+            },
+            {
+              "name": {
+                "value": "durante tutto"
+              }
+            },
+            {
+              "name": {
+                "value": "duro"
+              }
+            },
+            {
+              "name": {
+                "value": "e"
+              }
+            },
+            {
+              "name": {
+                "value": "eccezionale"
+              }
+            },
+            {
+              "name": {
+                "value": "economico"
+              }
+            },
+            {
+              "name": {
+                "value": "effettivamente"
+              }
+            },
+            {
+              "name": {
+                "value": "elegante"
+              }
+            },
+            {
+              "name": {
+                "value": "emozionato"
+              }
+            },
+            {
+              "name": {
+                "value": "entusiasta"
+              }
+            },
+            {
+              "name": {
+                "value": "eppure"
+              }
+            },
+            {
+              "name": {
+                "value": "equo"
+              }
+            },
+            {
+              "name": {
+                "value": "errore"
+              }
+            },
+            {
+              "name": {
+                "value": "esame"
+              }
+            },
+            {
+              "name": {
+                "value": "esatto"
+              }
+            },
+            {
+              "name": {
+                "value": "esaurire"
+              }
+            },
+            {
+              "name": {
+                "value": "esausto"
+              }
+            },
+            {
+              "name": {
+                "value": "escogitare"
+              }
+            },
+            {
+              "name": {
+                "value": "esigere"
+              }
+            },
+            {
+              "name": {
+                "value": "esitare"
+              }
+            },
+            {
+              "name": {
+                "value": "esito"
+              }
+            },
+            {
+              "name": {
+                "value": "esserci"
+              }
+            },
+            {
+              "name": {
+                "value": "essere"
+              }
+            },
+            {
+              "name": {
+                "value": "essere a"
+              }
+            },
+            {
+              "name": {
+                "value": "essere bocciato"
+              }
+            },
+            {
+              "name": {
+                "value": "essere grato"
+              }
+            },
+            {
+              "name": {
+                "value": "essere malato"
+              }
+            },
+            {
+              "name": {
+                "value": "estate"
+              }
+            },
+            {
+              "name": {
+                "value": "evitare"
+              }
+            },
+            {
+              "name": {
+                "value": "ex"
+              }
+            },
+            {
+              "name": {
+                "value": "extra"
+              }
+            },
+            {
+              "name": {
+                "value": "faccenda"
+              }
+            },
+            {
+              "name": {
+                "value": "facile"
+              }
+            },
+            {
+              "name": {
+                "value": "fallire"
+              }
+            },
+            {
+              "name": {
+                "value": "fame"
+              }
+            },
+            {
+              "name": {
+                "value": "famiglia"
+              }
+            },
+            {
+              "name": {
+                "value": "fantastico"
+              }
+            },
+            {
+              "name": {
+                "value": "far fronte"
+              }
+            },
+            {
+              "name": {
+                "value": "far notare"
+              }
+            },
+            {
+              "name": {
+                "value": "farcela"
+              }
+            },
+            {
+              "name": {
+                "value": "fare"
+              }
+            },
+            {
+              "name": {
+                "value": "fare affidamento su"
+              }
+            },
+            {
+              "name": {
+                "value": "fare finta"
+              }
+            },
+            {
+              "name": {
+                "value": "fare il bagno"
+              }
+            },
+            {
+              "name": {
+                "value": "fare il pendolare"
+              }
+            },
+            {
+              "name": {
+                "value": "fare jogging"
+              }
+            },
+            {
+              "name": {
+                "value": "fare la doccia"
+              }
+            },
+            {
+              "name": {
+                "value": "fare male"
+              }
+            },
+            {
+              "name": {
+                "value": "fare pace"
+              }
+            },
+            {
+              "name": {
+                "value": "fare volontariato"
+              }
+            },
+            {
+              "name": {
+                "value": "farmaco"
+              }
+            },
+            {
+              "name": {
+                "value": "farsi prestare"
+              }
+            },
+            {
+              "name": {
+                "value": "fastidioso"
+              }
+            },
+            {
+              "name": {
+                "value": "faticare"
+              }
+            },
+            {
+              "name": {
+                "value": "fattura"
+              }
+            },
+            {
+              "name": {
+                "value": "fede"
+              }
+            },
+            {
+              "name": {
+                "value": "fedele"
+              }
+            },
+            {
+              "name": {
+                "value": "feedback"
+              }
+            },
+            {
+              "name": {
+                "value": "felice"
+              }
+            },
+            {
+              "name": {
+                "value": "felicissimo"
+              }
+            },
+            {
+              "name": {
+                "value": "fermo"
+              }
+            },
+            {
+              "name": {
+                "value": "fiducioso"
+              }
+            },
+            {
+              "name": {
+                "value": "figlia"
+              }
+            },
+            {
+              "name": {
+                "value": "figlio"
+              }
+            },
+            {
+              "name": {
+                "value": "film"
+              }
+            },
+            {
+              "name": {
+                "value": "fine settimana"
+              }
+            },
+            {
+              "name": {
+                "value": "fingere"
+              }
+            },
+            {
+              "name": {
+                "value": "finire"
+              }
+            },
+            {
+              "name": {
+                "value": "fino a"
+              }
+            },
+            {
+              "name": {
+                "value": "fiore"
+              }
+            },
+            {
+              "name": {
+                "value": "fiori"
+              }
+            },
+            {
+              "name": {
+                "value": "fluente"
+              }
+            },
+            {
+              "name": {
+                "value": "fluido"
+              }
+            },
+            {
+              "name": {
+                "value": "fondamentale"
+              }
+            },
+            {
+              "name": {
+                "value": "fornire"
+              }
+            },
+            {
+              "name": {
+                "value": "fornitura"
+              }
+            },
+            {
+              "name": {
+                "value": "fortunatamente"
+              }
+            },
+            {
+              "name": {
+                "value": "fratellino"
+              }
+            },
+            {
+              "name": {
+                "value": "fratello"
+              }
+            },
+            {
+              "name": {
+                "value": "fratello maggiore"
+              }
+            },
+            {
+              "name": {
+                "value": "fratello minore"
+              }
+            },
+            {
+              "name": {
+                "value": "freddo"
+              }
+            },
+            {
+              "name": {
+                "value": "frequentare"
+              }
+            },
+            {
+              "name": {
+                "value": "frequentarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "fretta"
+              }
+            },
+            {
+              "name": {
+                "value": "frutta"
+              }
+            },
+            {
+              "name": {
+                "value": "fuga"
+              }
+            },
+            {
+              "name": {
+                "value": "funzionalità"
+              }
+            },
+            {
+              "name": {
+                "value": "funzione"
+              }
+            },
+            {
+              "name": {
+                "value": "fuori"
+              }
+            },
+            {
+              "name": {
+                "value": "garantire"
+              }
+            },
+            {
+              "name": {
+                "value": "gatto"
+              }
+            },
+            {
+              "name": {
+                "value": "generale"
+              }
+            },
+            {
+              "name": {
+                "value": "gente"
+              }
+            },
+            {
+              "name": {
+                "value": "gentile"
+              }
+            },
+            {
+              "name": {
+                "value": "genuino"
+              }
+            },
+            {
+              "name": {
+                "value": "gestire"
+              }
+            },
+            {
+              "name": {
+                "value": "giocare"
+              }
+            },
+            {
+              "name": {
+                "value": "giorno"
+              }
+            },
+            {
+              "name": {
+                "value": "giusto"
+              }
+            },
+            {
+              "name": {
+                "value": "già"
+              }
+            },
+            {
+              "name": {
+                "value": "giù"
+              }
+            },
+            {
+              "name": {
+                "value": "goffo"
+              }
+            },
+            {
+              "name": {
+                "value": "gradevole"
+              }
+            },
+            {
+              "name": {
+                "value": "gradualmente"
+              }
+            },
+            {
+              "name": {
+                "value": "graffiare"
+              }
+            },
+            {
+              "name": {
+                "value": "graffio"
+              }
+            },
+            {
+              "name": {
+                "value": "gran lavoratore"
+              }
+            },
+            {
+              "name": {
+                "value": "grande"
+              }
+            },
+            {
+              "name": {
+                "value": "grasso"
+              }
+            },
+            {
+              "name": {
+                "value": "grato"
+              }
+            },
+            {
+              "name": {
+                "value": "grattarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "grazie"
+              }
+            },
+            {
+              "name": {
+                "value": "guardare"
+              }
+            },
+            {
+              "name": {
+                "value": "guarire"
+              }
+            },
+            {
+              "name": {
+                "value": "guastarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "guidare"
+              }
+            },
+            {
+              "name": {
+                "value": "hotel"
+              }
+            },
+            {
+              "name": {
+                "value": "idoneo"
+              }
+            },
+            {
+              "name": {
+                "value": "ieri"
+              }
+            },
+            {
+              "name": {
+                "value": "imbarazzante"
+              }
+            },
+            {
+              "name": {
+                "value": "imbarazzato"
+              }
+            },
+            {
+              "name": {
+                "value": "imbrogliare"
+              }
+            },
+            {
+              "name": {
+                "value": "imminente"
+              }
+            },
+            {
+              "name": {
+                "value": "immobile"
+              }
+            },
+            {
+              "name": {
+                "value": "immondizia"
+              }
+            },
+            {
+              "name": {
+                "value": "impacciato"
+              }
+            },
+            {
+              "name": {
+                "value": "imparare"
+              }
+            },
+            {
+              "name": {
+                "value": "impaziente"
+              }
+            },
+            {
+              "name": {
+                "value": "impedire"
+              }
+            },
+            {
+              "name": {
+                "value": "impegnato"
+              }
+            },
+            {
+              "name": {
+                "value": "impiegato"
+              }
+            },
+            {
+              "name": {
+                "value": "impressionato"
+              }
+            },
+            {
+              "name": {
+                "value": "in"
+              }
+            },
+            {
+              "name": {
+                "value": "in abbondanza"
+              }
+            },
+            {
+              "name": {
+                "value": "in anticipo"
+              }
+            },
+            {
+              "name": {
+                "value": "in colpa"
+              }
+            },
+            {
+              "name": {
+                "value": "in futuro"
+              }
+            },
+            {
+              "name": {
+                "value": "in imbarazzo"
+              }
+            },
+            {
+              "name": {
+                "value": "in ogni caso"
+              }
+            },
+            {
+              "name": {
+                "value": "in ordine"
+              }
+            },
+            {
+              "name": {
+                "value": "in passato"
+              }
+            },
+            {
+              "name": {
+                "value": "in qualche modo"
+              }
+            },
+            {
+              "name": {
+                "value": "in realtà"
+              }
+            },
+            {
+              "name": {
+                "value": "in scadenza"
+              }
+            },
+            {
+              "name": {
+                "value": "in seguito"
+              }
+            },
+            {
+              "name": {
+                "value": "in sospeso"
+              }
+            },
+            {
+              "name": {
+                "value": "incartare"
+              }
+            },
+            {
+              "name": {
+                "value": "incolpare"
+              }
+            },
+            {
+              "name": {
+                "value": "incoraggiare"
+              }
+            },
+            {
+              "name": {
+                "value": "indagine"
+              }
+            },
+            {
+              "name": {
+                "value": "indicare"
+              }
+            },
+            {
+              "name": {
+                "value": "indipendentemente"
+              }
+            },
+            {
+              "name": {
+                "value": "individuare"
+              }
+            },
+            {
+              "name": {
+                "value": "indizio"
+              }
+            },
+            {
+              "name": {
+                "value": "indolenzito"
+              }
+            },
+            {
+              "name": {
+                "value": "indossare"
+              }
+            },
+            {
+              "name": {
+                "value": "infatti"
+              }
+            },
+            {
+              "name": {
+                "value": "infelice"
+              }
+            },
+            {
+              "name": {
+                "value": "infine"
+              }
+            },
+            {
+              "name": {
+                "value": "iniziare"
+              }
+            },
+            {
+              "name": {
+                "value": "inoltre"
+              }
+            },
+            {
+              "name": {
+                "value": "insegnante"
+              }
+            },
+            {
+              "name": {
+                "value": "inseguire"
+              }
+            },
+            {
+              "name": {
+                "value": "insieme"
+              }
+            },
+            {
+              "name": {
+                "value": "intanto"
+              }
+            },
+            {
+              "name": {
+                "value": "interessante"
+              }
+            },
+            {
+              "name": {
+                "value": "interrompere"
+              }
+            },
+            {
+              "name": {
+                "value": "intervento"
+              }
+            },
+            {
+              "name": {
+                "value": "intraprendere"
+              }
+            },
+            {
+              "name": {
+                "value": "invece"
+              }
+            },
+            {
+              "name": {
+                "value": "inventare"
+              }
+            },
+            {
+              "name": {
+                "value": "inverno"
+              }
+            },
+            {
+              "name": {
+                "value": "invitare"
+              }
+            },
+            {
+              "name": {
+                "value": "io"
+              }
+            },
+            {
+              "name": {
+                "value": "irritante"
+              }
+            },
+            {
+              "name": {
+                "value": "iscriversi"
+              }
+            },
+            {
+              "name": {
+                "value": "isolato"
+              }
+            },
+            {
+              "name": {
+                "value": "italia"
+              }
+            },
+            {
+              "name": {
+                "value": "laborioso"
+              }
+            },
+            {
+              "name": {
+                "value": "lamentarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "lamentela"
+              }
+            },
+            {
+              "name": {
+                "value": "lampada"
+              }
+            },
+            {
+              "name": {
+                "value": "largo"
+              }
+            },
+            {
+              "name": {
+                "value": "latte"
+              }
+            },
+            {
+              "name": {
+                "value": "lavare"
+              }
+            },
+            {
+              "name": {
+                "value": "lavarsi i denti"
+              }
+            },
+            {
+              "name": {
+                "value": "lavorare"
+              }
+            },
+            {
+              "name": {
+                "value": "lavoro"
+              }
+            },
+            {
+              "name": {
+                "value": "lavoro domestico"
+              }
+            },
+            {
+              "name": {
+                "value": "leale"
+              }
+            },
+            {
+              "name": {
+                "value": "leggere"
+              }
+            },
+            {
+              "name": {
+                "value": "leggermente"
+              }
+            },
+            {
+              "name": {
+                "value": "leggero"
+              }
+            },
+            {
+              "name": {
+                "value": "lei"
+              }
+            },
+            {
+              "name": {
+                "value": "lento"
+              }
+            },
+            {
+              "name": {
+                "value": "lezione"
+              }
+            },
+            {
+              "name": {
+                "value": "liberare"
+              }
+            },
+            {
+              "name": {
+                "value": "libero"
+              }
+            },
+            {
+              "name": {
+                "value": "libro"
+              }
+            },
+            {
+              "name": {
+                "value": "lieto"
+              }
+            },
+            {
+              "name": {
+                "value": "limitare"
+              }
+            },
+            {
+              "name": {
+                "value": "lingua cinese"
+              }
+            },
+            {
+              "name": {
+                "value": "liscio"
+              }
+            },
+            {
+              "name": {
+                "value": "litigare"
+              }
+            },
+            {
+              "name": {
+                "value": "lontano"
+              }
+            },
+            {
+              "name": {
+                "value": "loro"
+              }
+            },
+            {
+              "name": {
+                "value": "lottare"
+              }
+            },
+            {
+              "name": {
+                "value": "luce"
+              }
+            },
+            {
+              "name": {
+                "value": "lui"
+              }
+            },
+            {
+              "name": {
+                "value": "luna"
+              }
+            },
+            {
+              "name": {
+                "value": "lungo"
+              }
+            },
+            {
+              "name": {
+                "value": "luogo"
+              }
+            },
+            {
+              "name": {
+                "value": "ma"
+              }
+            },
+            {
+              "name": {
+                "value": "macchia"
+              }
+            },
+            {
+              "name": {
+                "value": "macchina"
+              }
+            },
+            {
+              "name": {
+                "value": "madre"
+              }
+            },
+            {
+              "name": {
+                "value": "maestro"
+              }
+            },
+            {
+              "name": {
+                "value": "magro"
+              }
+            },
+            {
+              "name": {
+                "value": "maldestro"
+              }
+            },
+            {
+              "name": {
+                "value": "malgrado"
+              }
+            },
+            {
+              "name": {
+                "value": "mamma"
+              }
+            },
+            {
+              "name": {
+                "value": "mancanza"
+              }
+            },
+            {
+              "name": {
+                "value": "mancare"
+              }
+            },
+            {
+              "name": {
+                "value": "maneggiare"
+              }
+            },
+            {
+              "name": {
+                "value": "mangiare"
+              }
+            },
+            {
+              "name": {
+                "value": "maniglia"
+              }
+            },
+            {
+              "name": {
+                "value": "marito"
+              }
+            },
+            {
+              "name": {
+                "value": "mattina"
+              }
+            },
+            {
+              "name": {
+                "value": "mattinata"
+              }
+            },
+            {
+              "name": {
+                "value": "me"
+              }
+            },
+            {
+              "name": {
+                "value": "medicina"
+              }
+            },
+            {
+              "name": {
+                "value": "medico"
+              }
+            },
+            {
+              "name": {
+                "value": "mela"
+              }
+            },
+            {
+              "name": {
+                "value": "mensola"
+              }
+            },
+            {
+              "name": {
+                "value": "mente"
+              }
+            },
+            {
+              "name": {
+                "value": "mentre"
+              }
+            },
+            {
+              "name": {
+                "value": "menu"
+              }
+            },
+            {
+              "name": {
+                "value": "menzionare"
+              }
+            },
+            {
+              "name": {
+                "value": "menù"
+              }
+            },
+            {
+              "name": {
+                "value": "meraviglia"
+              }
+            },
+            {
+              "name": {
+                "value": "meritare"
+              }
+            },
+            {
+              "name": {
+                "value": "mese"
+              }
+            },
+            {
+              "name": {
+                "value": "metro"
+              }
+            },
+            {
+              "name": {
+                "value": "metropolitana"
+              }
+            },
+            {
+              "name": {
+                "value": "mettere"
+              }
+            },
+            {
+              "name": {
+                "value": "mettere in guardia"
+              }
+            },
+            {
+              "name": {
+                "value": "mi dispiace"
+              }
+            },
+            {
+              "name": {
+                "value": "mi piace studiare le lingue"
+              }
+            },
+            {
+              "name": {
+                "value": "minuti"
+              }
+            },
+            {
+              "name": {
+                "value": "minuto"
+              }
+            },
+            {
+              "name": {
+                "value": "mite"
+              }
+            },
+            {
+              "name": {
+                "value": "moglie"
+              }
+            },
+            {
+              "name": {
+                "value": "molto"
+              }
+            },
+            {
+              "name": {
+                "value": "momento"
+              }
+            },
+            {
+              "name": {
+                "value": "montagna"
+              }
+            },
+            {
+              "name": {
+                "value": "monte"
+              }
+            },
+            {
+              "name": {
+                "value": "morire"
+              }
+            },
+            {
+              "name": {
+                "value": "morto di fame"
+              }
+            },
+            {
+              "name": {
+                "value": "musica"
+              }
+            },
+            {
+              "name": {
+                "value": "mutuo"
+              }
+            },
+            {
+              "name": {
+                "value": "nazione"
+              }
+            },
+            {
+              "name": {
+                "value": "necessitare"
+              }
+            },
+            {
+              "name": {
+                "value": "negare"
+              }
+            },
+            {
+              "name": {
+                "value": "negozio"
+              }
+            },
+            {
+              "name": {
+                "value": "nei paraggi"
+              }
+            },
+            {
+              "name": {
+                "value": "nel complesso"
+              }
+            },
+            {
+              "name": {
+                "value": "nel frattempo"
+              }
+            },
+            {
+              "name": {
+                "value": "nero"
+              }
+            },
+            {
+              "name": {
+                "value": "neve"
+              }
+            },
+            {
+              "name": {
+                "value": "no"
+              }
+            },
+            {
+              "name": {
+                "value": "noi"
+              }
+            },
+            {
+              "name": {
+                "value": "noioso"
+              }
+            },
+            {
+              "name": {
+                "value": "noleggiare"
+              }
+            },
+            {
+              "name": {
+                "value": "nome"
+              }
+            },
+            {
+              "name": {
+                "value": "non"
+              }
+            },
+            {
+              "name": {
+                "value": "non fa niente"
+              }
+            },
+            {
+              "name": {
+                "value": "non importa"
+              }
+            },
+            {
+              "name": {
+                "value": "non sono sicuro"
+              }
+            },
+            {
+              "name": {
+                "value": "non superare"
+              }
+            },
+            {
+              "name": {
+                "value": "non vedere l'ora"
+              }
+            },
+            {
+              "name": {
+                "value": "nonna"
+              }
+            },
+            {
+              "name": {
+                "value": "nonno"
+              }
+            },
+            {
+              "name": {
+                "value": "nonostante"
+              }
+            },
+            {
+              "name": {
+                "value": "normale"
+              }
+            },
+            {
+              "name": {
+                "value": "notevole"
+              }
+            },
+            {
+              "name": {
+                "value": "nuovo"
+              }
+            },
+            {
+              "name": {
+                "value": "obiettivo"
+              }
+            },
+            {
+              "name": {
+                "value": "occasione"
+              }
+            },
+            {
+              "name": {
+                "value": "occhi"
+              }
+            },
+            {
+              "name": {
+                "value": "occhio"
+              }
+            },
+            {
+              "name": {
+                "value": "occuparsi di"
+              }
+            },
+            {
+              "name": {
+                "value": "occupato"
+              }
+            },
+            {
+              "name": {
+                "value": "offrire"
+              }
+            },
+            {
+              "name": {
+                "value": "oggetto"
+              }
+            },
+            {
+              "name": {
+                "value": "oggi"
+              }
+            },
+            {
+              "name": {
+                "value": "oggi fa molto freddo"
+              }
+            },
+            {
+              "name": {
+                "value": "oggigiorno"
+              }
+            },
+            {
+              "name": {
+                "value": "ogni"
+              }
+            },
+            {
+              "name": {
+                "value": "onorario"
+              }
+            },
+            {
+              "name": {
+                "value": "opaco"
+              }
+            },
+            {
+              "name": {
+                "value": "operazione"
+              }
+            },
+            {
+              "name": {
+                "value": "opportunità"
+              }
+            },
+            {
+              "name": {
+                "value": "ora"
+              }
+            },
+            {
+              "name": {
+                "value": "orario"
+              }
+            },
+            {
+              "name": {
+                "value": "ordinario"
+              }
+            },
+            {
+              "name": {
+                "value": "ordinato"
+              }
+            },
+            {
+              "name": {
+                "value": "ore"
+              }
+            },
+            {
+              "name": {
+                "value": "ore extra"
+              }
+            },
+            {
+              "name": {
+                "value": "organizzare"
+              }
+            },
+            {
+              "name": {
+                "value": "orribile"
+              }
+            },
+            {
+              "name": {
+                "value": "osare"
+              }
+            },
+            {
+              "name": {
+                "value": "ospedale"
+              }
+            },
+            {
+              "name": {
+                "value": "ostinato"
+              }
+            },
+            {
+              "name": {
+                "value": "ottenere"
+              }
+            },
+            {
+              "name": {
+                "value": "otto"
+              }
+            },
+            {
+              "name": {
+                "value": "ovviamente"
+              }
+            },
+            {
+              "name": {
+                "value": "padre"
+              }
+            },
+            {
+              "name": {
+                "value": "padrone di casa"
+              }
+            },
+            {
+              "name": {
+                "value": "paese"
+              }
+            },
+            {
+              "name": {
+                "value": "paga"
+              }
+            },
+            {
+              "name": {
+                "value": "pane"
+              }
+            },
+            {
+              "name": {
+                "value": "papà"
+              }
+            },
+            {
+              "name": {
+                "value": "parco"
+              }
+            },
+            {
+              "name": {
+                "value": "parere"
+              }
+            },
+            {
+              "name": {
+                "value": "parlare"
+              }
+            },
+            {
+              "name": {
+                "value": "partecipare"
+              }
+            },
+            {
+              "name": {
+                "value": "passare il tempo"
+              }
+            },
+            {
+              "name": {
+                "value": "pasta"
+              }
+            },
+            {
+              "name": {
+                "value": "pasticcio"
+              }
+            },
+            {
+              "name": {
+                "value": "pechino"
+              }
+            },
+            {
+              "name": {
+                "value": "pendere"
+              }
+            },
+            {
+              "name": {
+                "value": "pensare"
+              }
+            },
+            {
+              "name": {
+                "value": "pentirsi"
+              }
+            },
+            {
+              "name": {
+                "value": "per"
+              }
+            },
+            {
+              "name": {
+                "value": "per di più"
+              }
+            },
+            {
+              "name": {
+                "value": "per favore"
+              }
+            },
+            {
+              "name": {
+                "value": "per fortuna"
+              }
+            },
+            {
+              "name": {
+                "value": "per tutto"
+              }
+            },
+            {
+              "name": {
+                "value": "perché"
+              }
+            },
+            {
+              "name": {
+                "value": "perciò"
+              }
+            },
+            {
+              "name": {
+                "value": "perdere"
+              }
+            },
+            {
+              "name": {
+                "value": "perdita"
+              }
+            },
+            {
+              "name": {
+                "value": "permettersi"
+              }
+            },
+            {
+              "name": {
+                "value": "perplesso"
+              }
+            },
+            {
+              "name": {
+                "value": "perseguire"
+              }
+            },
+            {
+              "name": {
+                "value": "persona"
+              }
+            },
+            {
+              "name": {
+                "value": "persuadere"
+              }
+            },
+            {
+              "name": {
+                "value": "pertanto"
+              }
+            },
+            {
+              "name": {
+                "value": "però"
+              }
+            },
+            {
+              "name": {
+                "value": "pesce"
+              }
+            },
+            {
+              "name": {
+                "value": "pessimo"
+              }
+            },
+            {
+              "name": {
+                "value": "pettegolezzo"
+              }
+            },
+            {
+              "name": {
+                "value": "pezzo"
+              }
+            },
+            {
+              "name": {
+                "value": "piacere"
+              }
+            },
+            {
+              "name": {
+                "value": "piacevole"
+              }
+            },
+            {
+              "name": {
+                "value": "piano"
+              }
+            },
+            {
+              "name": {
+                "value": "piatto"
+              }
+            },
+            {
+              "name": {
+                "value": "piccolo"
+              }
+            },
+            {
+              "name": {
+                "value": "piegare"
+              }
+            },
+            {
+              "name": {
+                "value": "piegarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "piovere"
+              }
+            },
+            {
+              "name": {
+                "value": "piuttosto"
+              }
+            },
+            {
+              "name": {
+                "value": "più"
+              }
+            },
+            {
+              "name": {
+                "value": "più di"
+              }
+            },
+            {
+              "name": {
+                "value": "pochi"
+              }
+            },
+            {
+              "name": {
+                "value": "poco"
+              }
+            },
+            {
+              "name": {
+                "value": "poco a poco"
+              }
+            },
+            {
+              "name": {
+                "value": "poco fa"
+              }
+            },
+            {
+              "name": {
+                "value": "poco profondo"
+              }
+            },
+            {
+              "name": {
+                "value": "poiché"
+              }
+            },
+            {
+              "name": {
+                "value": "pomeriggio"
+              }
+            },
+            {
+              "name": {
+                "value": "porta"
+              }
+            },
+            {
+              "name": {
+                "value": "portare"
+              }
+            },
+            {
+              "name": {
+                "value": "posticipare"
+              }
+            },
+            {
+              "name": {
+                "value": "posto"
+              }
+            },
+            {
+              "name": {
+                "value": "potere"
+              }
+            },
+            {
+              "name": {
+                "value": "pranzo"
+              }
+            },
+            {
+              "name": {
+                "value": "pratico"
+              }
+            },
+            {
+              "name": {
+                "value": "precedente"
+              }
+            },
+            {
+              "name": {
+                "value": "prego"
+              }
+            },
+            {
+              "name": {
+                "value": "prelevare"
+              }
+            },
+            {
+              "name": {
+                "value": "premio"
+              }
+            },
+            {
+              "name": {
+                "value": "prendere"
+              }
+            },
+            {
+              "name": {
+                "value": "prendere al volo"
+              }
+            },
+            {
+              "name": {
+                "value": "prendere il controllo"
+              }
+            },
+            {
+              "name": {
+                "value": "prendere in prestito"
+              }
+            },
+            {
+              "name": {
+                "value": "preoccupato"
+              }
+            },
+            {
+              "name": {
+                "value": "preparare"
+              }
+            },
+            {
+              "name": {
+                "value": "prepararsi"
+              }
+            },
+            {
+              "name": {
+                "value": "pressione"
+              }
+            },
+            {
+              "name": {
+                "value": "presto"
+              }
+            },
+            {
+              "name": {
+                "value": "presumere"
+              }
+            },
+            {
+              "name": {
+                "value": "prevenire"
+              }
+            },
+            {
+              "name": {
+                "value": "preventivo"
+              }
+            },
+            {
+              "name": {
+                "value": "previsione"
+              }
+            },
+            {
+              "name": {
+                "value": "previsioni"
+              }
+            },
+            {
+              "name": {
+                "value": "previsto"
+              }
+            },
+            {
+              "name": {
+                "value": "prezioso"
+              }
+            },
+            {
+              "name": {
+                "value": "prima"
+              }
+            },
+            {
+              "name": {
+                "value": "primavera"
+              }
+            },
+            {
+              "name": {
+                "value": "primo"
+              }
+            },
+            {
+              "name": {
+                "value": "principalmente"
+              }
+            },
+            {
+              "name": {
+                "value": "problema"
+              }
+            },
+            {
+              "name": {
+                "value": "professore"
+              }
+            },
+            {
+              "name": {
+                "value": "programma"
+              }
+            },
+            {
+              "name": {
+                "value": "proporre"
+              }
+            },
+            {
+              "name": {
+                "value": "proposta"
+              }
+            },
+            {
+              "name": {
+                "value": "proprietario"
+              }
+            },
+            {
+              "name": {
+                "value": "proprietà"
+              }
+            },
+            {
+              "name": {
+                "value": "prossimo"
+              }
+            },
+            {
+              "name": {
+                "value": "prova"
+              }
+            },
+            {
+              "name": {
+                "value": "provenienza"
+              }
+            },
+            {
+              "name": {
+                "value": "provvisorio"
+              }
+            },
+            {
+              "name": {
+                "value": "prudente"
+              }
+            },
+            {
+              "name": {
+                "value": "pubblicare"
+              }
+            },
+            {
+              "name": {
+                "value": "pulire"
+              }
+            },
+            {
+              "name": {
+                "value": "pulito"
+              }
+            },
+            {
+              "name": {
+                "value": "punto"
+              }
+            },
+            {
+              "name": {
+                "value": "quale"
+              }
+            },
+            {
+              "name": {
+                "value": "quando"
+              }
+            },
+            {
+              "name": {
+                "value": "quanti"
+              }
+            },
+            {
+              "name": {
+                "value": "quanto"
+              }
+            },
+            {
+              "name": {
+                "value": "quartiere"
+              }
+            },
+            {
+              "name": {
+                "value": "quasi"
+              }
+            },
+            {
+              "name": {
+                "value": "quasi per niente"
+              }
+            },
+            {
+              "name": {
+                "value": "quattro"
+              }
+            },
+            {
+              "name": {
+                "value": "quella"
+              }
+            },
+            {
+              "name": {
+                "value": "quello"
+              }
+            },
+            {
+              "name": {
+                "value": "questa"
+              }
+            },
+            {
+              "name": {
+                "value": "questione"
+              }
+            },
+            {
+              "name": {
+                "value": "questo"
+              }
+            },
+            {
+              "name": {
+                "value": "quindi"
+              }
+            },
+            {
+              "name": {
+                "value": "quota"
+              }
+            },
+            {
+              "name": {
+                "value": "raccogliere"
+              }
+            },
+            {
+              "name": {
+                "value": "raccontare"
+              }
+            },
+            {
+              "name": {
+                "value": "radunare"
+              }
+            },
+            {
+              "name": {
+                "value": "raffinato"
+              }
+            },
+            {
+              "name": {
+                "value": "raggiungere"
+              }
+            },
+            {
+              "name": {
+                "value": "ragionevole"
+              }
+            },
+            {
+              "name": {
+                "value": "rallegrarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "rallentare"
+              }
+            },
+            {
+              "name": {
+                "value": "rapido"
+              }
+            },
+            {
+              "name": {
+                "value": "raramente"
+              }
+            },
+            {
+              "name": {
+                "value": "recentemente"
+              }
+            },
+            {
+              "name": {
+                "value": "reclamo"
+              }
+            },
+            {
+              "name": {
+                "value": "recuperare"
+              }
+            },
+            {
+              "name": {
+                "value": "regalare"
+              }
+            },
+            {
+              "name": {
+                "value": "regalo"
+              }
+            },
+            {
+              "name": {
+                "value": "registrarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "regolare"
+              }
+            },
+            {
+              "name": {
+                "value": "remoto"
+              }
+            },
+            {
+              "name": {
+                "value": "rendersi conto"
+              }
+            },
+            {
+              "name": {
+                "value": "respirare"
+              }
+            },
+            {
+              "name": {
+                "value": "restio"
+              }
+            },
+            {
+              "name": {
+                "value": "riattaccare"
+              }
+            },
+            {
+              "name": {
+                "value": "ricco"
+              }
+            },
+            {
+              "name": {
+                "value": "ricevuta"
+              }
+            },
+            {
+              "name": {
+                "value": "richiedere"
+              }
+            },
+            {
+              "name": {
+                "value": "richiesta"
+              }
+            },
+            {
+              "name": {
+                "value": "ricompensa"
+              }
+            },
+            {
+              "name": {
+                "value": "riconoscente"
+              }
+            },
+            {
+              "name": {
+                "value": "ridurre"
+              }
+            },
+            {
+              "name": {
+                "value": "rifiutare"
+              }
+            },
+            {
+              "name": {
+                "value": "rifornire"
+              }
+            },
+            {
+              "name": {
+                "value": "rilasciare"
+              }
+            },
+            {
+              "name": {
+                "value": "rilevare"
+              }
+            },
+            {
+              "name": {
+                "value": "riluttante"
+              }
+            },
+            {
+              "name": {
+                "value": "rimandare"
+              }
+            },
+            {
+              "name": {
+                "value": "rimanere senza"
+              }
+            },
+            {
+              "name": {
+                "value": "rimarginarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "rimasugli"
+              }
+            },
+            {
+              "name": {
+                "value": "rimborso"
+              }
+            },
+            {
+              "name": {
+                "value": "rimpiangere"
+              }
+            },
+            {
+              "name": {
+                "value": "rimpiazzare"
+              }
+            },
+            {
+              "name": {
+                "value": "rinunciare"
+              }
+            },
+            {
+              "name": {
+                "value": "rinviare"
+              }
+            },
+            {
+              "name": {
+                "value": "riordinare"
+              }
+            },
+            {
+              "name": {
+                "value": "riposare"
+              }
+            },
+            {
+              "name": {
+                "value": "riposarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "riprendersi"
+              }
+            },
+            {
+              "name": {
+                "value": "riscontro"
+              }
+            },
+            {
+              "name": {
+                "value": "riso"
+              }
+            },
+            {
+              "name": {
+                "value": "risolvere"
+              }
+            },
+            {
+              "name": {
+                "value": "rispetto a"
+              }
+            },
+            {
+              "name": {
+                "value": "ristorante"
+              }
+            },
+            {
+              "name": {
+                "value": "risultato"
+              }
+            },
+            {
+              "name": {
+                "value": "ritirare"
+              }
+            },
+            {
+              "name": {
+                "value": "ritmo"
+              }
+            },
+            {
+              "name": {
+                "value": "riuscire"
+              }
+            },
+            {
+              "name": {
+                "value": "rivelare"
+              }
+            },
+            {
+              "name": {
+                "value": "rivendicare"
+              }
+            },
+            {
+              "name": {
+                "value": "roba"
+              }
+            },
+            {
+              "name": {
+                "value": "rompersi"
+              }
+            },
+            {
+              "name": {
+                "value": "rosso"
+              }
+            },
+            {
+              "name": {
+                "value": "rovesciare"
+              }
+            },
+            {
+              "name": {
+                "value": "rovinare"
+              }
+            },
+            {
+              "name": {
+                "value": "ruvido"
+              }
+            },
+            {
+              "name": {
+                "value": "salario"
+              }
+            },
+            {
+              "name": {
+                "value": "salire"
+              }
+            },
+            {
+              "name": {
+                "value": "salute"
+              }
+            },
+            {
+              "name": {
+                "value": "salvare"
+              }
+            },
+            {
+              "name": {
+                "value": "salve"
+              }
+            },
+            {
+              "name": {
+                "value": "sapere"
+              }
+            },
+            {
+              "name": {
+                "value": "sbadigliare"
+              }
+            },
+            {
+              "name": {
+                "value": "sbadiglio"
+              }
+            },
+            {
+              "name": {
+                "value": "sbagliato"
+              }
+            },
+            {
+              "name": {
+                "value": "scadenza"
+              }
+            },
+            {
+              "name": {
+                "value": "scaffale"
+              }
+            },
+            {
+              "name": {
+                "value": "scarpa"
+              }
+            },
+            {
+              "name": {
+                "value": "scarpe"
+              }
+            },
+            {
+              "name": {
+                "value": "scarsità"
+              }
+            },
+            {
+              "name": {
+                "value": "scendere"
+              }
+            },
+            {
+              "name": {
+                "value": "sciolto"
+              }
+            },
+            {
+              "name": {
+                "value": "scodella"
+              }
+            },
+            {
+              "name": {
+                "value": "scomparire"
+              }
+            },
+            {
+              "name": {
+                "value": "sconfiggere"
+              }
+            },
+            {
+              "name": {
+                "value": "scontrino"
+              }
+            },
+            {
+              "name": {
+                "value": "scontroso"
+              }
+            },
+            {
+              "name": {
+                "value": "scopo"
+              }
+            },
+            {
+              "name": {
+                "value": "scorciatoia"
+              }
+            },
+            {
+              "name": {
+                "value": "scorrevole"
+              }
+            },
+            {
+              "name": {
+                "value": "scrivania"
+              }
+            },
+            {
+              "name": {
+                "value": "scrivere"
+              }
+            },
+            {
+              "name": {
+                "value": "scrupoloso"
+              }
+            },
+            {
+              "name": {
+                "value": "scuola"
+              }
+            },
+            {
+              "name": {
+                "value": "scusa"
+              }
+            },
+            {
+              "name": {
+                "value": "scusarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "se non"
+              }
+            },
+            {
+              "name": {
+                "value": "sebbene"
+              }
+            },
+            {
+              "name": {
+                "value": "sedersi"
+              }
+            },
+            {
+              "name": {
+                "value": "sedia"
+              }
+            },
+            {
+              "name": {
+                "value": "semplice"
+              }
+            },
+            {
+              "name": {
+                "value": "sensato"
+              }
+            },
+            {
+              "name": {
+                "value": "sentire"
+              }
+            },
+            {
+              "name": {
+                "value": "senza soldi"
+              }
+            },
+            {
+              "name": {
+                "value": "separato"
+              }
+            },
+            {
+              "name": {
+                "value": "sera"
+              }
+            },
+            {
+              "name": {
+                "value": "sete"
+              }
+            },
+            {
+              "name": {
+                "value": "settimana"
+              }
+            },
+            {
+              "name": {
+                "value": "sfida"
+              }
+            },
+            {
+              "name": {
+                "value": "sfinito"
+              }
+            },
+            {
+              "name": {
+                "value": "sfondo"
+              }
+            },
+            {
+              "name": {
+                "value": "sgradevole"
+              }
+            },
+            {
+              "name": {
+                "value": "she is very happy today"
+              }
+            },
+            {
+              "name": {
+                "value": "siccità"
+              }
+            },
+            {
+              "name": {
+                "value": "sicuramente"
+              }
+            },
+            {
+              "name": {
+                "value": "sicuro"
+              }
+            },
+            {
+              "name": {
+                "value": "sicuro di sé"
+              }
+            },
+            {
+              "name": {
+                "value": "simile"
+              }
+            },
+            {
+              "name": {
+                "value": "sincero"
+              }
+            },
+            {
+              "name": {
+                "value": "sinistra"
+              }
+            },
+            {
+              "name": {
+                "value": "sistemare"
+              }
+            },
+            {
+              "name": {
+                "value": "soccorrere"
+              }
+            },
+            {
+              "name": {
+                "value": "soccorso"
+              }
+            },
+            {
+              "name": {
+                "value": "soldi"
+              }
+            },
+            {
+              "name": {
+                "value": "sole"
+              }
+            },
+            {
+              "name": {
+                "value": "sollevare"
+              }
+            },
+            {
+              "name": {
+                "value": "sollevato"
+              }
+            },
+            {
+              "name": {
+                "value": "sommerso"
+              }
+            },
+            {
+              "name": {
+                "value": "sondaggio"
+              }
+            },
+            {
+              "name": {
+                "value": "sopra"
+              }
+            },
+            {
+              "name": {
+                "value": "sopraffatto"
+              }
+            },
+            {
+              "name": {
+                "value": "soprattutto"
+              }
+            },
+            {
+              "name": {
+                "value": "sorella"
+              }
+            },
+            {
+              "name": {
+                "value": "sorella maggiore"
+              }
+            },
+            {
+              "name": {
+                "value": "sorella minore"
+              }
+            },
+            {
+              "name": {
+                "value": "sorellina"
+              }
+            },
+            {
+              "name": {
+                "value": "sospetto"
+              }
+            },
+            {
+              "name": {
+                "value": "sospettoso"
+              }
+            },
+            {
+              "name": {
+                "value": "sostenere"
+              }
+            },
+            {
+              "name": {
+                "value": "sostituire"
+              }
+            },
+            {
+              "name": {
+                "value": "sotto"
+              }
+            },
+            {
+              "name": {
+                "value": "sottofondo"
+              }
+            },
+            {
+              "name": {
+                "value": "sottolineare"
+              }
+            },
+            {
+              "name": {
+                "value": "spaghetti"
+              }
+            },
+            {
+              "name": {
+                "value": "spazzatura"
+              }
+            },
+            {
+              "name": {
+                "value": "spegnere"
+              }
+            },
+            {
+              "name": {
+                "value": "spento"
+              }
+            },
+            {
+              "name": {
+                "value": "speranza"
+              }
+            },
+            {
+              "name": {
+                "value": "sperare"
+              }
+            },
+            {
+              "name": {
+                "value": "spesa"
+              }
+            },
+            {
+              "name": {
+                "value": "spettegolare"
+              }
+            },
+            {
+              "name": {
+                "value": "spostare"
+              }
+            },
+            {
+              "name": {
+                "value": "spostarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "spremere"
+              }
+            },
+            {
+              "name": {
+                "value": "stabile"
+              }
+            },
+            {
+              "name": {
+                "value": "stanco"
+              }
+            },
+            {
+              "name": {
+                "value": "stanza"
+              }
+            },
+            {
+              "name": {
+                "value": "stare bene"
+              }
+            },
+            {
+              "name": {
+                "value": "stato"
+              }
+            },
+            {
+              "name": {
+                "value": "stazione"
+              }
+            },
+            {
+              "name": {
+                "value": "stazione ferroviaria"
+              }
+            },
+            {
+              "name": {
+                "value": "stima"
+              }
+            },
+            {
+              "name": {
+                "value": "stimare"
+              }
+            },
+            {
+              "name": {
+                "value": "stordito"
+              }
+            },
+            {
+              "name": {
+                "value": "strada"
+              }
+            },
+            {
+              "name": {
+                "value": "strano"
+              }
+            },
+            {
+              "name": {
+                "value": "straordinari"
+              }
+            },
+            {
+              "name": {
+                "value": "straordinario"
+              }
+            },
+            {
+              "name": {
+                "value": "stretto"
+              }
+            },
+            {
+              "name": {
+                "value": "stringere"
+              }
+            },
+            {
+              "name": {
+                "value": "strofinare"
+              }
+            },
+            {
+              "name": {
+                "value": "studente"
+              }
+            },
+            {
+              "name": {
+                "value": "studentessa"
+              }
+            },
+            {
+              "name": {
+                "value": "studiare"
+              }
+            },
+            {
+              "name": {
+                "value": "stupendo"
+              }
+            },
+            {
+              "name": {
+                "value": "su"
+              }
+            },
+            {
+              "name": {
+                "value": "subentrare"
+              }
+            },
+            {
+              "name": {
+                "value": "succedere"
+              }
+            },
+            {
+              "name": {
+                "value": "successivamente"
+              }
+            },
+            {
+              "name": {
+                "value": "sudare"
+              }
+            },
+            {
+              "name": {
+                "value": "sudore"
+              }
+            },
+            {
+              "name": {
+                "value": "suggerimento"
+              }
+            },
+            {
+              "name": {
+                "value": "suggerire"
+              }
+            },
+            {
+              "name": {
+                "value": "superare"
+              }
+            },
+            {
+              "name": {
+                "value": "superficiale"
+              }
+            },
+            {
+              "name": {
+                "value": "supermercato"
+              }
+            },
+            {
+              "name": {
+                "value": "supporre"
+              }
+            },
+            {
+              "name": {
+                "value": "sussurrare"
+              }
+            },
+            {
+              "name": {
+                "value": "svelare"
+              }
+            },
+            {
+              "name": {
+                "value": "sì"
+              }
+            },
+            {
+              "name": {
+                "value": "tagliare a pezzi"
+              }
+            },
+            {
+              "name": {
+                "value": "tagliatelle"
+              }
+            },
+            {
+              "name": {
+                "value": "tanti"
+              }
+            },
+            {
+              "name": {
+                "value": "tanto"
+              }
+            },
+            {
+              "name": {
+                "value": "tariffa"
+              }
+            },
+            {
+              "name": {
+                "value": "tasso"
+              }
+            },
+            {
+              "name": {
+                "value": "tavolo"
+              }
+            },
+            {
+              "name": {
+                "value": "taxi"
+              }
+            },
+            {
+              "name": {
+                "value": "tazza"
+              }
+            },
+            {
+              "name": {
+                "value": "te"
+              }
+            },
+            {
+              "name": {
+                "value": "telefonata"
+              }
+            },
+            {
+              "name": {
+                "value": "telefonino"
+              }
+            },
+            {
+              "name": {
+                "value": "telefono"
+              }
+            },
+            {
+              "name": {
+                "value": "televisione"
+              }
+            },
+            {
+              "name": {
+                "value": "tempo"
+              }
+            },
+            {
+              "name": {
+                "value": "temporaneo"
+              }
+            },
+            {
+              "name": {
+                "value": "tendere"
+              }
+            },
+            {
+              "name": {
+                "value": "tentare"
+              }
+            },
+            {
+              "name": {
+                "value": "tentativo"
+              }
+            },
+            {
+              "name": {
+                "value": "terminare"
+              }
+            },
+            {
+              "name": {
+                "value": "terribile"
+              }
+            },
+            {
+              "name": {
+                "value": "testardo"
+              }
+            },
+            {
+              "name": {
+                "value": "testimone"
+              }
+            },
+            {
+              "name": {
+                "value": "tirare fuori"
+              }
+            },
+            {
+              "name": {
+                "value": "tirare su di morale"
+              }
+            },
+            {
+              "name": {
+                "value": "tirarsi su"
+              }
+            },
+            {
+              "name": {
+                "value": "toilette"
+              }
+            },
+            {
+              "name": {
+                "value": "tornare"
+              }
+            },
+            {
+              "name": {
+                "value": "torta"
+              }
+            },
+            {
+              "name": {
+                "value": "tradire"
+              }
+            },
+            {
+              "name": {
+                "value": "tragitto"
+              }
+            },
+            {
+              "name": {
+                "value": "trattare"
+              }
+            },
+            {
+              "name": {
+                "value": "tre"
+              }
+            },
+            {
+              "name": {
+                "value": "triste"
+              }
+            },
+            {
+              "name": {
+                "value": "tritare"
+              }
+            },
+            {
+              "name": {
+                "value": "troppo"
+              }
+            },
+            {
+              "name": {
+                "value": "trovare"
+              }
+            },
+            {
+              "name": {
+                "value": "trovarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "truccarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "tu"
+              }
+            },
+            {
+              "name": {
+                "value": "turbato"
+              }
+            },
+            {
+              "name": {
+                "value": "turismo"
+              }
+            },
+            {
+              "name": {
+                "value": "turno"
+              }
+            },
+            {
+              "name": {
+                "value": "tuttavia"
+              }
+            },
+            {
+              "name": {
+                "value": "tv"
+              }
+            },
+            {
+              "name": {
+                "value": "tè"
+              }
+            },
+            {
+              "name": {
+                "value": "uccello"
+              }
+            },
+            {
+              "name": {
+                "value": "ufficio"
+              }
+            },
+            {
+              "name": {
+                "value": "uguale"
+              }
+            },
+            {
+              "name": {
+                "value": "ultimamente"
+              }
+            },
+            {
+              "name": {
+                "value": "umile"
+              }
+            },
+            {
+              "name": {
+                "value": "un po'"
+              }
+            },
+            {
+              "name": {
+                "value": "una cosa che si fa ogni giorno"
+              }
+            },
+            {
+              "name": {
+                "value": "una persona molto gentile"
+              }
+            },
+            {
+              "name": {
+                "value": "uno"
+              }
+            },
+            {
+              "name": {
+                "value": "uomo"
+              }
+            },
+            {
+              "name": {
+                "value": "uova"
+              }
+            },
+            {
+              "name": {
+                "value": "uovo"
+              }
+            },
+            {
+              "name": {
+                "value": "usare"
+              }
+            },
+            {
+              "name": {
+                "value": "uscire"
+              }
+            },
+            {
+              "name": {
+                "value": "utile"
+              }
+            },
+            {
+              "name": {
+                "value": "vago"
+              }
+            },
+            {
+              "name": {
+                "value": "valere"
+              }
+            },
+            {
+              "name": {
+                "value": "valere la pena"
+              }
+            },
+            {
+              "name": {
+                "value": "valutare"
+              }
+            },
+            {
+              "name": {
+                "value": "vantaggio"
+              }
+            },
+            {
+              "name": {
+                "value": "vedere"
+              }
+            },
+            {
+              "name": {
+                "value": "veicolo"
+              }
+            },
+            {
+              "name": {
+                "value": "veloce"
+              }
+            },
+            {
+              "name": {
+                "value": "vendere"
+              }
+            },
+            {
+              "name": {
+                "value": "venire"
+              }
+            },
+            {
+              "name": {
+                "value": "venire a mancare"
+              }
+            },
+            {
+              "name": {
+                "value": "venire in mente"
+              }
+            },
+            {
+              "name": {
+                "value": "veramente"
+              }
+            },
+            {
+              "name": {
+                "value": "verde"
+              }
+            },
+            {
+              "name": {
+                "value": "verdura"
+              }
+            },
+            {
+              "name": {
+                "value": "vergognarsi"
+              }
+            },
+            {
+              "name": {
+                "value": "vero"
+              }
+            },
+            {
+              "name": {
+                "value": "versare"
+              }
+            },
+            {
+              "name": {
+                "value": "vestiti"
+              }
+            },
+            {
+              "name": {
+                "value": "via"
+              }
+            },
+            {
+              "name": {
+                "value": "viaggiare"
+              }
+            },
+            {
+              "name": {
+                "value": "vicinato"
+              }
+            },
+            {
+              "name": {
+                "value": "vicino"
+              }
+            },
+            {
+              "name": {
+                "value": "vietare"
+              }
+            },
+            {
+              "name": {
+                "value": "vivere"
+              }
+            },
+            {
+              "name": {
+                "value": "viziare"
+              }
+            },
+            {
+              "name": {
+                "value": "voce"
+              }
+            },
+            {
+              "name": {
+                "value": "volere"
+              }
+            },
+            {
+              "name": {
+                "value": "volontario"
+              }
+            },
+            {
+              "name": {
+                "value": "we need to make a decision"
+              }
+            },
+            {
+              "name": {
+                "value": "weekend"
+              }
+            },
+            {
+              "name": {
+                "value": "yuan"
+              }
+            },
+            {
+              "name": {
+                "value": "zaino"
+              }
+            },
+            {
+              "name": {
+                "value": "è"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

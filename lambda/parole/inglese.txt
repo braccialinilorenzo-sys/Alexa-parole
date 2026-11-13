@@ -1,0 +1,322 @@
+# PAROLE INGLESI — una per riga, 5 campi separati da " | "
+# parola | pronuncia | traduzione | esempio in inglese | traduzione dell'esempio
+# Pronuncia: pronuncia americana scritta "all'italiana", sillabe separate da trattini, sillaba accentata in MAIUSCOLO.
+#   Si legge come l'italiano, con queste convenzioni:
+#   ci/ce = c dolce (come in "ciao"); gi/ge = g dolce (come in "gelato"); sci/sce = come in "scena".
+#   c' / g' / sc' a fine parola = lo stesso suono dolce, ma senza vocale finale (es. reach = RIIC', huge = HIUUG').
+#   k = c dura; gh = g dura (anche davanti a e/i, es. give = ghiv).
+#   th = lingua tra i denti (come la z spagnola di "Zaragoza").
+#   u davanti a vocale = w (work = UERK); i davanti a vocale = y (yet = IET); h = aspirata.
+#   è = a molto aperta, a metà tra a ed e (come in "cat"); er = vocale indistinta seguita da r (come in "work").
+#   ii, uu = vocale lunga; ei, ai, oi, au, ou = dittonghi; la r si pronuncia sempre; la s può essere sorda o sonora.
+# Traduzioni alternative separate da " / " (la prima è quella principale).
+# Le righe che iniziano con # vengono ignorate.
+# Puoi aggiungere, togliere o riordinare le righe liberamente.
+
+mainly | MEIN-li | principalmente / soprattutto | The audience was mainly young people. | Il pubblico era composto principalmente da giovani.
+fond | FAND | affezionato | I'm very fond of my grandmother. | Sono molto affezionato a mia nonna.
+advice | ed-VAIS | consiglio / consigli | Can you give me some advice? | Puoi darmi qualche consiglio?
+come up with | kam AP uith | escogitare / inventare / trovare | She came up with a great idea. | Ha avuto un'ottima idea.
+require | ri-KUAIER | richiedere / necessitare | This job requires a lot of patience. | Questo lavoro richiede molta pazienza.
+hang up | hèng AP | riattaccare / appendere | She hung up the phone angrily. | Ha riattaccato il telefono, arrabbiata.
+attempt | a-TEMPT | tentativo / tentare | He passed the exam on his first attempt. | Ha superato l'esame al primo tentativo.
+struggle | STRA-gol | faticare / lottare / avere difficoltà | Many families struggle to pay their bills. | Molte famiglie faticano a pagare le bollette.
+cozy | KOU-si | accogliente / confortevole | This café is small but cozy. | Questo bar è piccolo ma accogliente.
+broke | BROUK | al verde / senza soldi | I can't go out, I'm broke. | Non posso uscire, sono al verde.
+sensible | SEN-si-bol | sensato / ragionevole | That's a sensible decision. | È una decisione sensata.
+cheerful | CIR-fol | allegro / di buon umore | She's always cheerful in the morning. | La mattina è sempre allegra.
+consistent | ken-SIS-tent | costante / coerente | You need to be consistent with your training. | Devi essere costante con l'allenamento.
+regular | RE-ghiu-ler | regolare / abituale | He's a regular customer here. | Qui è un cliente abituale.
+tidy | TAI-di | ordinato / in ordine / riordinare | Keep your room tidy. | Tieni la tua camera in ordine.
+proof | PRUUF | prova / dimostrazione | Do you have any proof? | Hai qualche prova?
+grumpy | GRAM-pi | scontroso / di cattivo umore | He's always grumpy in the morning. | La mattina è sempre scontroso.
+demand | di-MÈND | richiesta / domanda / esigere | There is a high demand for nurses. | C'è una forte richiesta di infermieri.
+blame | BLEIM | incolpare / dare la colpa | Don't blame me for your mistakes. | Non dare la colpa a me per i tuoi errori.
+due | DUU | previsto / dovuto / in scadenza | The report is due next week. | La relazione va consegnata la prossima settimana.
+willing | UI-ling | disposto / disponibile | Are you willing to work on weekends? | Sei disposto a lavorare nel fine settimana?
+alike | e-LAIK | simile / uguale / allo stesso modo | The two sisters look alike. | Le due sorelle si somigliano.
+let down | let DAUN | deludere | Don't let me down. | Non deludermi.
+stubborn | STA-bern | testardo / ostinato | My brother is as stubborn as a mule. | Mio fratello è testardo come un mulo.
+cope | KOUP | farcela / cavarsela / far fronte | She's coping well with the new job. | Se la sta cavando bene con il nuovo lavoro.
+fill out | fil AUT | compilare | Please fill out this form. | Per favore, compila questo modulo.
+mild | MAILD | mite / leggero / delicato | The winter was quite mild this year. | Quest'anno l'inverno è stato piuttosto mite.
+prevent | pri-VENT | prevenire / impedire | Wash your hands to prevent infections. | Lavati le mani per prevenire le infezioni.
+thorough | THER-ou | accurato / approfondito / scrupoloso | The doctor did a thorough examination. | Il medico ha fatto una visita accurata.
+neighborhood | NEI-ber-hud | quartiere / vicinato | We live in a quiet neighborhood. | Viviamo in un quartiere tranquillo.
+deadline | DED-lain | scadenza | The deadline for the report is Friday. | La scadenza per la relazione è venerdì.
+garbage | GAR-big' | spazzatura / immondizia | Can you take out the garbage? | Puoi portare fuori la spazzatura?
+commute | ke-MIUUT | fare il pendolare / tragitto / spostarsi | I commute to work by train. | Faccio il pendolare in treno.
+appointment | a-POINT-ment | appuntamento | I have a doctor's appointment at three. | Ho un appuntamento dal medico alle tre.
+furthermore | FER-ther-mor | inoltre / per di più | Furthermore, the hotel was very clean. | Inoltre, l'albergo era molto pulito.
+genuine | GE-niu-in | sincero / autentico / genuino | She showed genuine interest in my work. | Ha mostrato un sincero interesse per il mio lavoro.
+sort out | sort AUT | sistemare / risolvere | Don't worry, I'll sort it out. | Non preoccuparti, lo sistemo io.
+definitely | DE-fe-nit-li | sicuramente / decisamente / di sicuro | I'll definitely come to your party. | Verrò sicuramente alla tua festa.
+property | PRA-per-ti | proprietà / immobile | Property prices are rising in this area. | In questa zona i prezzi degli immobili stanno salendo.
+rumor | RUU-mer | voce / diceria / pettegolezzo | There's a rumor that the boss is leaving. | Gira voce che il capo se ne vada.
+gorgeous | GOR-ges | bellissimo / stupendo | What a gorgeous view! | Che vista stupenda!
+outstanding | aut-STÈN-ding | eccezionale / straordinario / in sospeso | She did an outstanding job. | Ha fatto un lavoro eccezionale.
+give up | ghiv AP | arrendersi / rinunciare | Don't give up, you're almost there. | Non arrenderti, ci sei quasi.
+rough | RAF | approssimativo / ruvido / difficile | Can you give me a rough idea of the cost? | Puoi darmi un'idea approssimativa del costo?
+hardly | HARD-li | a malapena / appena / quasi per niente | I can hardly hear you. | Ti sento a malapena.
+resign | ri-SAIN | dimettersi | The manager resigned last week. | Il direttore si è dimesso la settimana scorsa.
+upcoming | AP-ka-ming | prossimo / imminente | Are you ready for the upcoming exam? | Sei pronto per il prossimo esame?
+smooth | SMUUTH | liscio / regolare / fluido | Her skin is very smooth. | La sua pelle è molto liscia.
+exhausted | ig-SOS-tid | esausto / sfinito | I'm exhausted after the long trip. | Sono esausto dopo il lungo viaggio.
+stain | STEIN | macchia | There's a coffee stain on your shirt. | C'è una macchia di caffè sulla tua camicia.
+challenge | CIÈ-leng' | sfida | Learning a language is a big challenge. | Imparare una lingua è una grande sfida.
+insurance | in-SCIU-rens | assicurazione | Do you have health insurance? | Hai un'assicurazione sanitaria?
+estimate | ES-ti-meit | stimare / stima / preventivo | Can you estimate the cost? | Puoi stimare il costo?
+hardworking | hard-UER-king | laborioso / diligente / gran lavoratore | She's a very hardworking student. | È una studentessa molto diligente.
+involve | in-VALV | comportare / coinvolgere | The job involves a lot of travel. | Il lavoro comporta molti viaggi.
+survey | SER-vei | sondaggio / indagine | We did a survey of our customers. | Abbiamo fatto un sondaggio tra i nostri clienti.
+wipe | UAIP | pulire / asciugare / strofinare | Please wipe the table after dinner. | Per favore, pulisci il tavolo dopo cena.
+delighted | di-LAI-tid | lieto / felicissimo / contentissimo | I'm delighted to meet you. | Sono lieto di conoscerti.
+lean | LIIN | appoggiarsi / pendere | Don't lean on the door. | Non appoggiarti alla porta.
+release | ri-LIIS | pubblicare / rilasciare / liberare | The band will release a new album. | La band pubblicherà un nuovo album.
+starving | STAR-ving | affamato / morto di fame | I'm starving, let's eat! | Sto morendo di fame, mangiamo!
+avoid | a-VOID | evitare | Try to avoid driving during rush hour. | Cerca di evitare di guidare nell'ora di punta.
+indeed | in-DIID | davvero / infatti / effettivamente | It was indeed a very difficult year. | È stato davvero un anno molto difficile.
+expense | ik-SPENS | spesa / costo | Travel expenses are paid by the company. | Le spese di viaggio sono pagate dall'azienda.
+tight | TAIT | stretto / attillato | My shoes are too tight. | Le mie scarpe sono troppo strette.
+take over | teik OU-ver | rilevare / prendere il controllo / subentrare | A big company took over our firm. | Una grande azienda ha rilevato la nostra ditta.
+borrow | BA-rou | prendere in prestito / farsi prestare | Can I borrow your pen for a minute? | Posso prendere in prestito la tua penna per un minuto?
+apart | e-PART | a parte / separato / distante | They live far apart. | Abitano molto lontani l'uno dall'altro.
+turn off | tern OF | spegnere | Don't forget to turn off the lights. | Non dimenticare di spegnere le luci.
+however | hau-E-ver | tuttavia / però | The plan is good; however, it's expensive. | Il piano è buono; tuttavia, è costoso.
+outcome | AUT-kam | esito / risultato | We're waiting for the outcome of the meeting. | Stiamo aspettando l'esito della riunione.
+although | ol-THOU | anche se / sebbene / benché | Although it was cold, we went swimming. | Anche se faceva freddo, siamo andati a nuotare.
+suggest | seg-GEST | suggerire / proporre | I suggest we leave early. | Suggerisco di partire presto.
+manage | MÈ-nig' | gestire / riuscire | She manages a team of ten people. | Gestisce un gruppo di dieci persone.
+reward | ri-UORD | ricompensa / premio | There's a reward for finding the dog. | C'è una ricompensa per chi trova il cane.
+remarkable | ri-MAR-ke-bol | notevole / straordinario | She made remarkable progress this year. | Quest'anno ha fatto progressi notevoli.
+shallow | SCIÈ-lou | poco profondo / superficiale | The water is shallow here. | Qui l'acqua è poco profonda.
+regret | ri-GRET | pentirsi / rimpiangere | I regret not studying harder. | Mi pento di non aver studiato di più.
+eventually | i-VEN-ciu-e-li | alla fine / infine | He eventually found a job. | Alla fine ha trovato un lavoro.
+anxious | ÈNK-sces | ansioso / preoccupato | She feels anxious before exams. | Si sente ansiosa prima degli esami.
+wonder | UAN-der | chiedersi / domandarsi / meraviglia | I wonder why she left so early. | Mi chiedo perché sia andata via così presto.
+handy | HÈN-di | utile / pratico / a portata di mano | A small knife is handy when camping. | Un coltellino è utile in campeggio.
+shortcut | SCIORT-kat | scorciatoia | Let's take a shortcut through the park. | Prendiamo una scorciatoia attraverso il parco.
+turn down | tern DAUN | rifiutare / abbassare | She turned down the job offer. | Ha rifiutato l'offerta di lavoro.
+slightly | SLAIT-li | leggermente / un po' | The price is slightly higher than last year. | Il prezzo è leggermente più alto dell'anno scorso.
+deny | di-NAI | negare | He denied stealing the money. | Ha negato di aver rubato i soldi.
+wish | UISC' | desiderare / augurare / desiderio | I wish I could speak French. | Vorrei saper parlare francese.
+encourage | in-KER-ig' | incoraggiare | My parents always encouraged me to read. | I miei genitori mi hanno sempre incoraggiato a leggere.
+reluctant | ri-LAK-tent | riluttante / restio | He was reluctant to help us. | Era riluttante ad aiutarci.
+behavior | bi-HEI-vier | comportamento | His behavior at the party was strange. | Il suo comportamento alla festa era strano.
+receipt | ri-SIIT | scontrino / ricevuta | Can I have a receipt, please? | Posso avere lo scontrino, per favore?
+bill | BIL | bolletta / conto / fattura | I need to pay the electricity bill. | Devo pagare la bolletta della luce.
+get along | ghet e-LONG | andare d'accordo | I get along well with my colleagues. | Vado d'accordo con i miei colleghi.
+chore | CIOR | faccenda / lavoro domestico | I hate household chores. | Odio le faccende domestiche.
+pursue | per-SUU | perseguire / inseguire / intraprendere | She decided to pursue a career in music. | Ha deciso di intraprendere una carriera nella musica.
+nearby | nir-BAI | vicino / nei paraggi | Is there a pharmacy nearby? | C'è una farmacia qui vicino?
+awful | O-fol | terribile / orribile | The weather was awful yesterday. | Ieri il tempo era terribile.
+breathe | BRIITH | respirare | Breathe deeply and relax. | Respira profondamente e rilassati.
+ahead | a-HED | davanti / avanti / in anticipo | We have a long day ahead of us. | Abbiamo una lunga giornata davanti a noi.
+persuade | per-SUEID | convincere / persuadere | I persuaded him to come with us. | L'ho convinto a venire con noi.
+rely on | ri-LAI an | contare su / fare affidamento su | You can always rely on me. | Puoi sempre contare su di me.
+drought | DRAUT | siccità | The drought ruined the crops. | La siccità ha rovinato i raccolti.
+pleasant | PLE-sent | piacevole / gradevole | We had a pleasant evening with friends. | Abbiamo passato una serata piacevole con gli amici.
+interrupt | in-te-RAPT | interrompere | Sorry to interrupt, but dinner is ready. | Scusa se ti interrompo, ma la cena è pronta.
+bargain | BAR-ghen | affare / occasione | This jacket was a real bargain. | Questa giacca è stata un vero affare.
+grab | GRÈB | afferrare / prendere / prendere al volo | Let's grab a coffee before work. | Prendiamo un caffè prima del lavoro.
+relieved | ri-LIIVD | sollevato | I was relieved to hear the news. | Ero sollevato di sentire la notizia.
+proper | PRA-per | adeguato / adatto / vero | You need proper shoes for hiking. | Ti servono scarpe adatte per le escursioni.
+chop | CIAP | tritare / tagliare a pezzi | Chop the onions finely. | Trita finemente le cipolle.
+consider | ken-SI-der | considerare / valutare | We are considering moving to Spain. | Stiamo valutando di trasferirci in Spagna.
+shift | SCIFT | turno / spostare / cambiamento | I work the night shift this week. | Questa settimana faccio il turno di notte.
+spot | SPAT | posto / macchia / individuare | We found a nice spot for the picnic. | Abbiamo trovato un bel posto per il picnic.
+charge | CIARG' | caricare / addebitare / costo | I need to charge my phone. | Devo caricare il telefono.
+meanwhile | MIIN-uail | nel frattempo / intanto | Meanwhile, the kids were playing outside. | Nel frattempo, i bambini giocavano fuori.
+ban | BÈN | vietare / divieto | Smoking is banned in restaurants. | È vietato fumare nei ristoranti.
+tough | TAF | duro / difficile | It was a tough decision. | È stata una decisione difficile.
+neat | NIIT | ordinato / pulito / fantastico | Her handwriting is very neat. | La sua calligrafia è molto ordinata.
+lately | LEIT-li | ultimamente / di recente | I've been very tired lately. | Ultimamente sono molto stanco.
+steady | STE-di | stabile / costante / fermo | She has a steady job. | Ha un lavoro stabile.
+bring up | bring AP | tirare fuori / sollevare / crescere | Don't bring up politics at dinner. | Non tirare fuori la politica a cena.
+overtime | OU-ver-taim | straordinari / ore extra | I worked overtime last week. | La settimana scorsa ho fatto gli straordinari.
+actually | ÈK-ciu-e-li | in realtà / veramente | I actually prefer tea to coffee. | In realtà preferisco il tè al caffè.
+temporary | TEM-pe-re-ri | temporaneo / provvisorio | This is only a temporary solution. | Questa è solo una soluzione temporanea.
+throughout | thru-AUT | per tutto / durante tutto | It rained throughout the day. | Ha piovuto per tutto il giorno.
+puzzled | PA-sold | perplesso / confuso | She looked puzzled by the question. | Sembrava perplessa per la domanda.
+gentle | GEN-tol | delicato / gentile / dolce | Be gentle with the baby. | Sii delicato con il bambino.
+overwhelmed | ou-ver-UELMD | sopraffatto / sommerso | I feel overwhelmed by all this work. | Mi sento sopraffatto da tutto questo lavoro.
+mention | MEN-scen | menzionare / accennare / citare | He didn't mention the problem. | Non ha menzionato il problema.
+shelf | SCELF | scaffale / mensola | Put the books on the top shelf. | Metti i libri sullo scaffale più alto.
+rather | RÈ-ther | piuttosto | I'd rather stay home tonight. | Stasera preferirei restare a casa.
+pretend | pri-TEND | fingere / fare finta | He pretended to be asleep. | Ha fatto finta di dormire.
+pick up | pik AP | andare a prendere / raccogliere / prendere | I'll pick you up at eight. | Passo a prenderti alle otto.
+fluent | FLUU-ent | fluente / scorrevole | She speaks fluent Spanish. | Parla uno spagnolo fluente.
+confident | KAN-fi-dent | sicuro di sé / sicuro / fiducioso | She's very confident at work. | Al lavoro è molto sicura di sé.
+leak | LIIK | perdita / perdere / fuga | There's a leak in the bathroom. | C'è una perdita in bagno.
+loose | LUUS | largo / allentato / sciolto | These jeans are a bit loose. | Questi jeans sono un po' larghi.
+impressed | im-PREST | colpito / impressionato | I was impressed by her speech. | Sono rimasto colpito dal suo discorso.
+reveal | ri-VIIL | rivelare / svelare | She refused to reveal her secret. | Si è rifiutata di rivelare il suo segreto.
+anyway | E-ni-uei | comunque / in ogni caso | Anyway, let's talk about something else. | Comunque, parliamo d'altro.
+wealthy | UEL-thi | ricco / benestante | They come from a wealthy family. | Vengono da una famiglia benestante.
+claim | KLEIM | sostenere / affermare / rivendicare | He claims he saw a ghost. | Sostiene di aver visto un fantasma.
+humble | HAM-bol | umile | Despite his success, he's very humble. | Nonostante il successo, è molto umile.
+pass away | pès e-UEI | venire a mancare / morire / scomparire | His grandfather passed away last year. | Suo nonno è venuto a mancare l'anno scorso.
+leftovers | LEFT-ou-vers | avanzi / rimasugli | We had leftovers for dinner. | A cena abbiamo mangiato gli avanzi.
+sore | SOR | indolenzito / dolorante | My legs are sore after running. | Ho le gambe indolenzite dopo la corsa.
+dizzy | DI-si | stordito / con le vertigini | I feel dizzy when I stand up. | Mi gira la testa quando mi alzo.
+appreciate | e-PRII-sci-eit | apprezzare / essere grato | I really appreciate your help. | Apprezzo davvero il tuo aiuto.
+spill | SPIL | rovesciare / versare | I spilled wine on the carpet. | Ho rovesciato il vino sul tappeto.
+fancy | FÈN-si | elegante / raffinato | We went to a fancy restaurant. | Siamo andati in un ristorante elegante.
+ordinary | OR-de-ne-ri | normale / ordinario / comune | It was just an ordinary day. | Era solo una giornata normale.
+harm | HARM | danneggiare / fare male / danno | Too much sun can harm your skin. | Troppo sole può danneggiare la pelle.
+deserve | di-SERV | meritare | You deserve a break. | Ti meriti una pausa.
+schedule | SKE-giuul | programma / orario / agenda | My schedule is very busy this week. | Questa settimana il mio programma è molto pieno.
+odd | AD | strano / dispari | It's odd that he didn't call. | È strano che non abbia chiamato.
+make up | meik AP | inventare / truccarsi / fare pace | He made up an excuse for being late. | Si è inventato una scusa per il ritardo.
+stuff | STAF | roba / cose | Put your stuff in the car. | Metti la tua roba in macchina.
+yet | IET | ancora / già / eppure | I haven't finished yet. | Non ho ancora finito.
+remote | ri-MOUT | isolato / remoto / a distanza | They live in a remote village. | Vivono in un villaggio isolato.
+look forward to | luk FOR-uerd tu | non vedere l'ora / attendere con ansia | I look forward to meeting you. | Non vedo l'ora di conoscerti.
+rate | REIT | tasso / tariffa / ritmo | The unemployment rate is falling. | Il tasso di disoccupazione sta calando.
+issue | I-sciuu | questione / problema | We need to discuss this issue. | Dobbiamo discutere di questa questione.
+behave | bi-HEIV | comportarsi | Behave yourself at the party! | Comportati bene alla festa!
+fair | FER | giusto / equo | It's not fair that he gets more money. | Non è giusto che lui prenda più soldi.
+dare | DER | osare | How dare you speak to me like that! | Come osi parlarmi così!
+attitude | È-ti-tuud | atteggiamento | He has a positive attitude. | Ha un atteggiamento positivo.
+nearly | NIR-li | quasi | I nearly missed the train. | Ho quasi perso il treno.
+embarrassed | im-BE-rest | imbarazzato / in imbarazzo | I felt embarrassed when I fell. | Mi sono sentito in imbarazzo quando sono caduto.
+witness | UIT-nes | testimone | The police are looking for witnesses. | La polizia sta cercando testimoni.
+landlord | LÈND-lord | padrone di casa / proprietario | Our landlord raised the rent again. | Il nostro padrone di casa ha aumentato di nuovo l'affitto.
+surgery | SER-ge-ri | operazione / intervento / chirurgia | He needs surgery on his knee. | Ha bisogno di un'operazione al ginocchio.
+retire | ri-TAIER | andare in pensione | My father retired last year. | Mio padre è andato in pensione l'anno scorso.
+worth | UERTH | valere / valere la pena / degno | This book is worth reading. | Vale la pena leggere questo libro.
+awkward | A-kuerd | imbarazzante / goffo | There was an awkward silence after his joke. | Dopo la sua battuta c'è stato un silenzio imbarazzante.
+slow down | slou DAUN | rallentare | Slow down, you're driving too fast! | Rallenta, stai guidando troppo veloce!
+bother | BA-ther | disturbare / dare fastidio | Sorry to bother you, but I have a question. | Scusa se ti disturbo, ma ho una domanda.
+afterward | ÈF-ter-uerd | dopo / in seguito / successivamente | We had dinner, and afterward we took a walk. | Abbiamo cenato e dopo abbiamo fatto una passeggiata.
+fail | FEIL | fallire / non superare / essere bocciato | I failed my driving test. | Non ho superato l'esame di guida.
+bend | BEND | piegare / piegarsi / curva | Bend your knees when you lift something heavy. | Piega le ginocchia quando sollevi qualcosa di pesante.
+reliable | ri-LAI-e-bol | affidabile | I need a reliable car for work. | Ho bisogno di un'auto affidabile per il lavoro.
+gather | GHÈ-ther | radunare / raccogliere | We gathered around the fire. | Ci siamo radunati intorno al fuoco.
+warn | UORN | avvertire / mettere in guardia | I warned you about the traffic. | Ti avevo avvertito del traffico.
+spoil | SPOIL | rovinare / viziare | Don't spoil the ending of the movie! | Non rovinare il finale del film!
+heal | HIIL | guarire / rimarginarsi | The wound healed quickly. | La ferita è guarita in fretta.
+occur | e-KER | accadere / succedere / venire in mente | The accident occurred at five in the afternoon. | L'incidente è accaduto alle cinque del pomeriggio.
+postpone | poust-POUN | rinviare / posticipare | The match was postponed because of rain. | La partita è stata rinviata a causa della pioggia.
+succeed | sek-SIID | riuscire / avere successo | She succeeded in passing the exam. | È riuscita a superare l'esame.
+mind | MAIND | dispiacere / mente / badare | Do you mind if I open the window? | Ti dispiace se apro la finestra?
+put off | put OF | rimandare / rinviare | Stop putting off your homework. | Smetti di rimandare i compiti.
+grateful | GREIT-fol | grato / riconoscente | I'm grateful for your help. | Ti sono grato per il tuo aiuto.
+cheer up | cir AP | tirarsi su / rallegrarsi / tirare su di morale | Cheer up, it's not the end of the world! | Su con la vita, non è la fine del mondo!
+hire | HAIER | assumere / noleggiare | The company is hiring new staff. | L'azienda sta assumendo nuovo personale.
+crucial | KRUU-scel | fondamentale / cruciale | Sleep is crucial for your health. | Il sonno è fondamentale per la salute.
+nowadays | NAU-e-deis | oggigiorno / al giorno d'oggi | Nowadays, everyone has a smartphone. | Oggigiorno tutti hanno uno smartphone.
+rarely | RER-li | raramente / di rado | We rarely eat out. | Mangiamo fuori raramente.
+recently | RII-sent-li | recentemente / di recente | I recently moved to a new apartment. | Di recente mi sono trasferito in un nuovo appartamento.
+precious | PRE-sces | prezioso | Time is precious. | Il tempo è prezioso.
+mortgage | MOR-ghig' | mutuo | They took out a mortgage to buy the house. | Hanno acceso un mutuo per comprare la casa.
+therefore | THER-for | quindi / perciò / pertanto | I was sick; therefore, I stayed home. | Ero malato, quindi sono rimasto a casa.
+spare | SPER | di riserva / libero / extra | Do you have a spare key? | Hai una chiave di riserva?
+shortage | SCIOR-tig' | carenza / scarsità | There's a shortage of water in the region. | Nella regione c'è carenza d'acqua.
+knowledge | NA-lig' | conoscenza / sapere | His knowledge of history is impressive. | La sua conoscenza della storia è impressionante.
+convenient | ken-VII-nient | comodo / pratico | The hotel is in a convenient location. | L'hotel è in una posizione comoda.
+errand | E-rend | commissione | I have a few errands to run. | Ho qualche commissione da fare.
+mess | MES | disordine / casino / pasticcio | Your room is a mess! | La tua camera è un casino!
+rescue | RES-kiu | salvare / soccorrere / soccorso | Firefighters rescued the family. | I vigili del fuoco hanno salvato la famiglia.
+refund | RII-fand | rimborso | I'd like a refund for this jacket. | Vorrei un rimborso per questa giacca.
+volunteer | va-len-TIIR | volontario / fare volontariato | She volunteers at the hospital. | Fa volontariato in ospedale.
+weird | UIRD | strano / bizzarro | I had a weird dream last night. | Stanotte ho fatto un sogno strano.
+evaluate | i-VÈL-iu-eit | valutare | We need to evaluate the results carefully. | Dobbiamo valutare attentamente i risultati.
+replace | ri-PLEIS | sostituire / rimpiazzare | We need to replace the old windows. | Dobbiamo sostituire le vecchie finestre.
+reach | RIIC' | raggiungere / arrivare | We reached the hotel at midnight. | Abbiamo raggiunto l'albergo a mezzanotte.
+recover | ri-KA-ver | riprendersi / guarire / recuperare | It took him months to recover from the accident. | Gli ci sono voluti mesi per riprendersi dall'incidente.
+sweat | SUET | sudare / sudore | I was sweating after the run. | Stavo sudando dopo la corsa.
+afford | a-FORD | permettersi | I can't afford a new car right now. | Adesso non posso permettermi un'auto nuova.
+former | FOR-mer | ex / precedente | He's a former soccer player. | È un ex calciatore.
+calm down | kam DAUN | calmarsi | Calm down, everything will be fine. | Calmati, andrà tutto bene.
+hint | HINT | indizio / suggerimento | Give me a hint! | Dammi un indizio!
+wage | UEIG' | salario / paga | The minimum wage was raised this year. | Quest'anno il salario minimo è stato aumentato.
+point out | point AUT | far notare / sottolineare / indicare | She pointed out a mistake in my report. | Mi ha fatto notare un errore nella mia relazione.
+convince | ken-VINS | convincere | You've convinced me to try it. | Mi hai convinto a provarci.
+rush | RASC' | fretta / correre / affrettarsi | There's no rush, take your time. | Non c'è fretta, prenditi il tuo tempo.
+handle | HÈN-dol | gestire / maneggiare / maniglia | She handles stress very well. | Gestisce molto bene lo stress.
+thrilled | THRILD | entusiasta / emozionato | She was thrilled with her birthday present. | Era entusiasta del suo regalo di compleanno.
+withdraw | uith-DRO | prelevare / ritirare | I need to withdraw some cash. | Devo prelevare dei contanti.
+confused | ken-FIUUSD | confuso | I'm confused about the instructions. | Le istruzioni mi confondono.
+unless | en-LES | a meno che / se non | We'll go to the beach unless it rains. | Andremo in spiaggia a meno che non piova.
+straightforward | streit-FOR-uerd | semplice / diretto | The instructions are pretty straightforward. | Le istruzioni sono piuttosto semplici.
+complaint | kem-PLEINT | reclamo / lamentela | I want to make a complaint. | Voglio fare un reclamo.
+employee | im-PLOI-ii | dipendente / impiegato | The company has 200 employees. | L'azienda ha 200 dipendenti.
+fee | FII | tariffa / quota / onorario | The entrance fee is ten dollars. | La tariffa d'ingresso è di dieci dollari.
+arrange | e-REING' | organizzare / sistemare | Let's arrange a meeting for next week. | Organizziamo una riunione per la prossima settimana.
+whisper | UIS-per | sussurrare | She whispered something in my ear. | Mi ha sussurrato qualcosa all'orecchio.
+belief | bi-LIIF | convinzione / credenza / fede | Religious beliefs are very personal. | Le convinzioni religiose sono molto personali.
+purpose | PER-pes | scopo / obiettivo | What is the purpose of your visit? | Qual è lo scopo della tua visita?
+gradually | GRÈ-giu-e-li | gradualmente / poco a poco | The weather gradually improved. | Il tempo è migliorato gradualmente.
+upset | ap-SET | turbato / dispiaciuto / arrabbiato | She was upset because nobody called her. | Era turbata perché nessuno l'aveva chiamata.
+scratch | SKRÈC' | graffiare / graffio / grattarsi | The cat scratched my hand. | Il gatto mi ha graffiato la mano.
+aware | a-UER | consapevole | Are you aware of the risks? | Sei consapevole dei rischi?
+set up | set AP | avviare / organizzare / allestire | They set up a new company last year. | L'anno scorso hanno avviato una nuova azienda.
+apologize | a-PA-le-giais | scusarsi / chiedere scusa | You should apologize to your brother. | Dovresti chiedere scusa a tuo fratello.
+achieve | a-CIIV | raggiungere / ottenere | She worked hard to achieve her goals. | Ha lavorato sodo per raggiungere i suoi obiettivi.
+overcome | ou-ver-KAM | superare / sconfiggere | She overcame her fear of flying. | Ha superato la paura di volare.
+advantage | ed-VÈN-tig' | vantaggio | Living near work is a big advantage. | Vivere vicino al lavoro è un grande vantaggio.
+pressure | PRE-scer | pressione | I work well under pressure. | Lavoro bene sotto pressione.
+hesitate | HE-si-teit | esitare | Don't hesitate to call me. | Non esitare a chiamarmi.
+cut down on | kat DAUN an | ridurre / limitare | I'm trying to cut down on sugar. | Sto cercando di ridurre lo zucchero.
+benefit | BE-ne-fit | beneficio / vantaggio | Exercise has many health benefits. | L'esercizio fisico ha molti benefici per la salute.
+annoying | e-NOI-ing | fastidioso / irritante | That noise is really annoying. | Quel rumore è davvero fastidioso.
+cautious | KO-sces | prudente / cauto | Be cautious when driving at night. | Sii prudente quando guidi di notte.
+somehow | SAM-hau | in qualche modo | We'll find the money somehow. | In qualche modo troveremo i soldi.
+throw away | throu e-UEI | buttare via | Don't throw away the receipt. | Non buttare via lo scontrino.
+current | KER-ent | attuale / corrente | What is your current address? | Qual è il tuo indirizzo attuale?
+stretch | STREC' | allungare / allungarsi / distendere | Stretch your legs before running. | Allunga le gambe prima di correre.
+run out of | ran AUT ev | finire / esaurire / rimanere senza | We've run out of milk. | Abbiamo finito il latte.
+suitable | SUU-te-bol | adatto / idoneo | This movie isn't suitable for children. | Questo film non è adatto ai bambini.
+guilty | GHIL-ti | colpevole / in colpa | I feel guilty about forgetting her birthday. | Mi sento in colpa per aver dimenticato il suo compleanno.
+despite | di-SPAIT | nonostante / malgrado | We went out despite the rain. | Siamo usciti nonostante la pioggia.
+figure out | fi-ghier AUT | capire / risolvere | I can't figure out how this machine works. | Non riesco a capire come funziona questa macchina.
+nasty | NÈS-ti | brutto / cattivo / sgradevole | I have a nasty cold. | Ho un brutto raffreddore.
+disappointed | dis-e-POIN-tid | deluso | I was disappointed with the results. | Ero deluso dai risultati.
+sign up | sain AP | iscriversi / registrarsi | I signed up for a yoga class. | Mi sono iscritto a un corso di yoga.
+cheat | CIIT | imbrogliare / copiare / tradire | He was caught cheating on the test. | È stato sorpreso a copiare durante il compito.
+surrounded | se-RAUN-did | circondato | The house is surrounded by trees. | La casa è circondata da alberi.
+assume | e-SUUM | supporre / presumere | I assume you've already eaten. | Suppongo che tu abbia già mangiato.
+feedback | FIID-bèk | riscontro / parere / feedback | Thanks for your feedback on my work. | Grazie per il tuo riscontro sul mio lavoro.
+loyal | LOI-el | leale / fedele | Dogs are very loyal animals. | I cani sono animali molto fedeli.
+realize | RII-e-lais | rendersi conto / accorgersi | I didn't realize it was so late. | Non mi ero reso conto che fosse così tardi.
+vague | VEIG | vago | He gave a vague answer. | Ha dato una risposta vaga.
+ashamed | e-SCEIMD | imbarazzato / vergognarsi | You should be ashamed of yourself. | Dovresti vergognarti di te stesso.
+background | BÈK-graund | sfondo / sottofondo / provenienza | There was loud music in the background. | C'era musica ad alto volume in sottofondo.
+proposal | pre-POU-sel | proposta | They accepted our proposal. | Hanno accettato la nostra proposta.
+overall | ou-ver-OL | nel complesso / complessivamente / generale | Overall, it was a good year. | Nel complesso, è stato un buon anno.
+wrap | RÈP | incartare / avvolgere | I need to wrap the present. | Devo incartare il regalo.
+fortunately | FOR-ce-net-li | fortunatamente / per fortuna | Fortunately, nobody was hurt. | Per fortuna, nessuno si è fatto male.
+courage | KER-ig' | coraggio | It takes courage to say no. | Ci vuole coraggio per dire di no.
+yawn | ION | sbadigliare / sbadiglio | Stop yawning, it's rude! | Smetti di sbadigliare, è maleducato!
+opportunity | a-per-TUU-ni-ti | opportunità / occasione | This job is a great opportunity for me. | Questo lavoro è una grande opportunità per me.
+argue | AR-ghiu | litigare / discutere / sostenere | My parents never argue. | I miei genitori non litigano mai.
+whereas | uer-ÈS | mentre / invece | I like coffee, whereas my wife prefers tea. | A me piace il caffè, mentre mia moglie preferisce il tè.
+apparently | a-PE-rent-li | a quanto pare / apparentemente | Apparently, the shop is closed today. | A quanto pare, oggi il negozio è chiuso.
+suspicious | se-SPI-sces | sospetto / sospettoso | The police found a suspicious package. | La polizia ha trovato un pacco sospetto.
+attach | e-TÈC' | allegare / attaccare | I've attached the file to the email. | Ho allegato il file all'email.
+clumsy | KLAM-si | maldestro / goffo / impacciato | I'm so clumsy, I always drop things. | Sono così maldestro, mi cade sempre tutto.
+supply | se-PLAI | fornire / rifornire / fornitura | The company supplies water to the city. | L'azienda fornisce acqua alla città.
+forecast | FOR-kèst | previsione / previsioni | What's the weather forecast for tomorrow? | Quali sono le previsioni del tempo per domani?
+deal with | DIIL uith | occuparsi di / gestire / affrontare | I'll deal with this problem tomorrow. | Mi occuperò di questo problema domani.
+ensure | in-SCIUR | assicurare / garantire / assicurarsi | Please ensure the door is locked. | Per favore, assicurati che la porta sia chiusa a chiave.
+complain | kem-PLEIN | lamentarsi | My neighbor always complains about the noise. | Il mio vicino si lamenta sempre del rumore.
+otherwise | A-ther-uais | altrimenti | Hurry up, otherwise we'll miss the bus. | Sbrigati, altrimenti perdiamo l'autobus.
+tend | TEND | tendere / avere la tendenza | I tend to forget people's names. | Tendo a dimenticare i nomi delle persone.
+squeeze | SKUIIS | spremere / stringere | Squeeze some lemon on the fish. | Spremi un po' di limone sul pesce.
+break down | breik DAUN | guastarsi / rompersi / crollare | Our car broke down on the highway. | La nostra auto si è guastata in autostrada.
+dull | DAL | noioso / spento / opaco | The meeting was long and dull. | La riunione è stata lunga e noiosa.
+straight | STREIT | dritto / diritto / direttamente | Go straight home after school. | Dopo la scuola vai dritto a casa.
+suit | SUUT | stare bene / addirsi / abito | That color really suits you. | Quel colore ti sta davvero bene.
+obviously | AB-vi-es-li | ovviamente | Obviously, I'll pay for the damage. | Ovviamente, pagherò io il danno.
+attend | e-TEND | partecipare / frequentare | Over 100 people attended the meeting. | Più di cento persone hanno partecipato alla riunione.
+lack | LÈK | mancanza / mancare | The project failed due to lack of money. | Il progetto è fallito per mancanza di soldi.
+plenty | PLEN-ti | molto / tanto / in abbondanza | Don't worry, we have plenty of time. | Non preoccuparti, abbiamo un sacco di tempo.
+miserable | MI-se-re-bol | infelice / triste / pessimo | I felt miserable when I had the flu. | Mi sentivo malissimo quando avevo l'influenza.
+hang out | hèng AUT | uscire / passare il tempo / frequentarsi | Do you want to hang out this weekend? | Vuoi uscire questo fine settimana?
+treat | TRIIT | trattare / curare / offrire | Let me treat you to dinner. | Lascia che ti offra la cena.
+eager | II-gher | desideroso / impaziente | The students were eager to learn. | Gli studenti erano desiderosi di imparare.
+gossip | GA-sip | pettegolezzo / spettegolare | Don't listen to office gossip. | Non ascoltare i pettegolezzi d'ufficio.
+feature | FII-cer | caratteristica / funzionalità / funzione | This phone has some great features. | Questo telefono ha delle ottime funzionalità.
+regardless | ri-GARD-les | indipendentemente / comunque | We'll go regardless of the weather. | Andremo indipendentemente dal tempo.
+reasonable | RII-se-ne-bol | ragionevole | That's a reasonable price for a used car. | È un prezzo ragionevole per un'auto usata.
